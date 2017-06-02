@@ -14,5 +14,9 @@ export default StyleSheet.create({
   },
   centered: {
     alignItems: 'center'
+  },
+  title: {
+    fontSize: 30,
+    color: '#0000ff'
   }
 })
