@@ -4,7 +4,10 @@ import { Metrics, ApplicationStyles } from '../../Themes/'
 export default StyleSheet.create({
   ...ApplicationStyles.screen,
   container: {
-    paddingBottom: Metrics.baseMargin
+    paddingBottom: Metrics.baseMargin,
+    backgroundColor: '#48639C',
+    flex: 1,
+    justifyContent: 'center'
   },
   logo: {
     marginTop: Metrics.doubleSection,
@@ -17,6 +20,13 @@ export default StyleSheet.create({
   },
   title: {
     fontSize: 30,
-    color: '#0000ff'
+    color: 'white',
+    textAlign: 'center',
+    fontFamily: 'ArialHebrew-Light'
+  },
+  buttonBox: {
+    flex: 2,
+    alignItems: 'center',
+    justifyContent: 'flex-start'
   }
 })
