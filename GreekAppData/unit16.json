@@ -1,0 +1,31 @@
+{
+	"vocab": {
+		"βαίνω, -βήσομαι, -ἔβην, βέβηκα, -, -": "wal, step, go, (perfect) stand",
+		"ἀναβαίνω": "go up, go upland, board, mount",
+		"γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην": "perceive, recognize, know",
+		"ἕκαστος, ἑκάστη, ἕκαστον": "each (of many), (pl.) each (of several groups), all (considered singly)",
+		"ἕνεκα (prep.)": "(+preceding gen.) for the sake of",
+		"Ζεύς, Διός, ὁ (voc. Ζεῦ)": "Zeus",
+		"θἐατρον, θεάτρου, τό": "theater",
+		"λέγω, ἐρῶ or λέξω, εἶπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλέχθην or ἐρρήθην": "say, speak",
+		"λιμήν, λιμένος, ὁ": "harbor",
+		"μήποτε (adv.)": "never, not ever",
+		"ναῦς, νεώς, ἡ": "ship",
+		"νή (affirmative particle)": "by (+ name of god in acc.)",
+		"νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην": "consider, think, believe",
+		"ὅτι (conj.)": "that, because",
+		"οὔποτε (adv.)": "never, not ever",
+		"πάνυ (adv.)": "perfectly, very, by all means",
+		"πίπτω, πεσοῦμαι, ἔπεσον, πέπτωκα, -, -": "fall",
+		"ἐκπίπτω": "be driven out, be banished",
+		"πολιτεία, πολιτείας, ἡ": "government, constitution, common-wealth",
+		"πολύς, πολλή, πολύ": "much, many",
+		"πολλάκις (adv.)": "often",
+		"πονηρός, πονηρά, πονηρόν": "worthless, evil, base",
+		"προ- (prefix)": "forward, on behalf of, before",
+		"προδίδωμι": "betray, give up (to any enemy), abandon",
+		"σωφροσύνη, σωφροσύνης, ἡ": "prudence, self-control, moderation",
+		"φημί, φήσω, ἔφησα, -, -, -": "say, assert, affirm",
+		"ὡς (conj.)": "that"
+	}
+}

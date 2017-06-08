@@ -1,0 +1,29 @@
+{
+	"vocab": {
+		"ἄργυρος, ἀργύρου, ὁ": "silver",
+		"ἀργύριον, ἀργυρίου, τό": "small coin, money",
+		"ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην": "rule, command (+gen.)",
+		"βλάπτω, βλάψω, ἔβλαψα, βέβλαφα, βέβλαμμαι, ἐβλάβην or ἐβλάφθην": "hurt, harm",
+		"γῆ, γῆς, ἡ": "earth, land",
+		"διδάσκαλος, διδασκάλου, ὁ": "teacher",
+		"δόξα, δόξης, ἡ": "expectation, belief, reputation, glory",
+		"θάνατος, θανάτου, ὁ": "death",
+		"ἀθάνατος, ἀθάνατον": "undying, immortal",
+		"ἱερός, ἱερά, ἱερόν": "holy, sacred to (+gen.)",
+		"ἱερόν, ἱεροῦ, τό": "shrine",
+		"ἱκανός, ἱκανή, ἱκανόν": "sufficient, capable",
+		"ἵππος, ἵππου, ὁ or ἡ": "horse, mare",
+		"κίνδυνος, κινδύνου, ὁ": "danger",
+		"λίθος, λίθου, ὁ": "stone",
+		"μακρός, μακρά, μακρόν": "long, tall",
+		"μικρός, μικρά, μικρόν": "small, little, short",
+		"πεδίον, πεδίου, τὀ": "plain",
+		"πείθω, πείσω, ἔπεισα, πέπεικα, πέπεισμαι, ἐπείσθην": "persuade",
+		"πολέμιος, πολεμία, πολέμιον": "hostile (+dat.)",
+		"πράττω, πράξω, ἔπραξα, πέπραχα (trans.) or πέπραγα (intrans.), πέπραγμαι, ἐπράχθην": "do, fare",
+		"πρῶτος, πρῶτη, πρῶτον": "first",
+		"ὑπό (prep.)": "+gen. by (personal agent), under; +dat. under, under the power of; +acc. under (with motion), toward (of time)",
+		"φόβος, φόβου, ὁ": "fear",
+		"φοβερός, φοβερά, φοβερόν": "fearful"
+	}
+}

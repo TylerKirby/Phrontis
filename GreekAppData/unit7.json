@@ -1,0 +1,27 @@
+{
+	"vocab": {
+		"αἰσχρός, αἰσχρά, αἰσχρόν": "ugly, shameful",
+		"ἄλλος, ἄλλη, ἄλλο": "another, other",
+		"ἄνευ (prep.)": "+gen. without",
+		"γράμμα, γράμματος, τό": "letter (of the alphabet), (pl.) documents",
+		"γραφή, γραφῆς, ἡ": "indictment",
+		"δῆλος, δήλη, δῆλον": "clear, visible",
+		"ἄδηλος, ἄδηλον": "unclear, uncertain",
+		"εἰ γάρ (particle)": "introduces optative of wish",
+		"εἴθε (particle)": "introduces optative of wish",
+		"ἐκεῖ (adverb)": "there (in that place)",
+		"ἐκεῖνος, ἐκείνη, ἐκεῖνο": "that",
+		"ἡγεμών, ἡγεμόνος, ὁ": "leader",
+		"κλέπτω, κλέψω, ἔκλεψα, κέκλοφα, κέκλεμμαι, ἐκλάπην": "steal",
+		"κλέπτης, κλέπτου, ὁ": "thief",
+		"κλοπή, κλοπῆς, ἡ": "theft",
+		"λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην": "leave, leave behind",
+		"οὖν (postpositive particle)": "then, therefore",
+		"ποίημα, ποιήματος, τό": "poem",
+		"ῥήτωρ, ῥήτορος, ὁ": "public speaker",
+		"ῥητορική, ῥητορικῆς, ἡ": "rhetoric",
+		"σῴζω, σώσω, ἔσωσα, σέσωκα, σέσωσμαι or σέσωμαι, ἐσώθην": "save",
+		"σωτήρ, σωτῆρος, ὁ (voc. σῶτερ)": "savior",
+		"τιμή, τιμῆς, ἡ": "honor, price"
+	}
+}
