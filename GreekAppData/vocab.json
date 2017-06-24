@@ -8,5 +8,11 @@
       "greek": "ἀδελφός, ἀδελφοῦ, ὁ",
       "english": "brother"
     }
+  ],
+  "unit2": [
+    {
+      "greek": "testGreek",
+      "english": "testEnglish"
+    }
   ]
 }

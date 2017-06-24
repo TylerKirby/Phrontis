@@ -11,12 +11,20 @@ export default class UnitSelectScreen extends React.Component {
       selectedChapter: 1
     };
     this.onValueChange = this.onValueChange.bind(this);
+    this.onPress = this.onPress.bind(this);
   }
+
+  
 
   onValueChange(itemValue) {
     this.setState({
       selectedChapter: itemValue,
     })
+  }
+
+  onPress() {
+    console.log(this.state.selectedChapter)
+    return this.props.navigation.navigate('VocabScreen', {selectedChapter: this.state.selectedChapter});
   }
 
   render() {
@@ -34,7 +42,7 @@ export default class UnitSelectScreen extends React.Component {
         </Picker>
         <RoundedButton
           text="Submit"
-          onPress={() => this.props.navigation.navigate('VocabScreen')}
+          onPress={this.onPress}
         />
       </View>
     )
