@@ -35,14 +35,11 @@ export default class VocabScreen extends React.Component {
 
   correct() {
     const { deckPosition, deck, flip } = this.state;
-    const reset = deckPosition + 1 < deck.length;
-
+    deck.splice(deck, 1)
     this.setState({
       flip: !flip,
-      deckPosition: reset ? deckPosition + 1 : 0,
-      deck: deck.splice(deckPosition),
+      deck: deck,
     });
-
   }
 
   wrong() {
