@@ -7,6 +7,10 @@
     {
       "greek": "ἀδελφός, ἀδελφοῦ, ὁ",
       "english": "brother"
+    },
+    {
+      "greek": "testGreek3",
+      "english": "testEnglish3"
     }
   ],
   "unit2": [
