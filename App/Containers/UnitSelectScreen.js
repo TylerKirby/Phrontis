@@ -8,7 +8,7 @@ export default class UnitSelectScreen extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      selectedChapter: 1
+      selectedChapter: 'unit1'
     };
     this.onValueChange = this.onValueChange.bind(this);
     this.onPress = this.onPress.bind(this);
@@ -18,7 +18,7 @@ export default class UnitSelectScreen extends React.Component {
 
   onValueChange(itemValue) {
     this.setState({
-      selectedChapter: itemValue,
+      selectedChapter: `unit${itemValue}`,
     })
   }
 
