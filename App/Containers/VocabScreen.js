@@ -2,6 +2,7 @@ import React from 'react';
 import { View, Text, Picker } from 'react-native';
 import RoundedButton from '../Components/RoundedButton';
 import vocab from '../../GreekAppData/vocab.json';
+import update from 'immutability-helper';
 
 // Styles
 import styles from './Styles/VocabScreenStyles'
@@ -18,12 +19,14 @@ export default class VocabScreen extends React.Component {
     this.correct = this.correct.bind(this);
     this.wrong = this.wrong.bind(this);
     this.showCard = this.showCard.bind(this);
+    this.reset = this.reset.bind(this);
   }
 
   // Get unit selected from UnitSelectScreen
   componentWillMount() {
     this.setState({
       deck: vocab[this.props.navigation.state.params.selectedChapter],
+      originalDeck: vocab[this.props.navigation.state.params.selectedChapter]
     })
   }
 
@@ -35,10 +38,10 @@ export default class VocabScreen extends React.Component {
 
   correct() {
     const { deckPosition, deck, flip } = this.state;
-    deck.splice(deck, 1)
+    const newDeck = update(deck, {$splice: [[deckPosition, 1]]})
     this.setState({
       flip: !flip,
-      deck: deck,
+      deck: newDeck,
     });
   }
 
@@ -50,6 +53,13 @@ export default class VocabScreen extends React.Component {
       flip: !flip,
       deckPosition: reset ? deckPosition + 1 : 0
     });
+  }
+
+  reset() {
+    const { originalDeck } = this.state;
+    this.setState({
+      deck: originalDeck,
+    })
   }
 
   showCard() {
@@ -79,7 +89,14 @@ export default class VocabScreen extends React.Component {
         <View style={styles.cardContainer}>
           <Text style={styles.cardText}>{this.showCard()}</Text>
         </View>
-        { finished ? <View/> :
+        { finished ? 
+        <View style={styles.buttonContainer}>
+          <RoundedButton 
+              text="Reset"
+              onPress={this.reset}
+            />
+        </View> 
+        :
         <View>
           {flip ?
           <View style={styles.buttonContainer} >
