@@ -12,7 +12,7 @@ export default class VocabScreen extends React.Component {
     super(props);
     this.state = {
       flip: true,
-      deckPosition: 0
+      deckPosition: 0,
     };
     this.flipCard = this.flipCard.bind(this);
     this.correct = this.correct.bind(this);
@@ -23,7 +23,7 @@ export default class VocabScreen extends React.Component {
   // Get unit selected from UnitSelectScreen
   componentWillMount() {
     this.setState({
-      deck: vocab[this.props.navigation.state.params.selectedChapter]
+      deck: vocab[this.props.navigation.state.params.selectedChapter],
     })
   }
 
@@ -54,10 +54,11 @@ export default class VocabScreen extends React.Component {
 
   showCard() {
     const { flip, deck, deckPosition } = this.state;
-    const lastCard = deck.length < 1
-    if (!lastCard) {
+    const finished = deck.length < 1
+    if (!finished) {
       return deck[deckPosition][flip ? 'greek' : 'english']
     }
+
     return "Great job!"
   }
 
@@ -71,29 +72,35 @@ export default class VocabScreen extends React.Component {
 
     const { flip, deck, deckPosition } = this.state;
 
+    let finished = deck.length < 1
+
     return(
       <View style={styles.mainContainer}>
         <View style={styles.cardContainer}>
           <Text style={styles.cardText}>{this.showCard()}</Text>
         </View>
-        {flip ?
-        <View style={styles.buttonContainer} >
-          <RoundedButton 
-            text="flip"
-            onPress={this.flipCard}
-          />
-        </View>
-        :
-        <View style={styles.buttonContainer}>
-          <RoundedButton 
-            text="✔️" 
-            onPress={this.correct}
-          />
-          <RoundedButton 
-            text="❌"
-            onPress={this.wrong}
-          />
-        </View>
+        { finished ? <View/> :
+        <View>
+          {flip ?
+          <View style={styles.buttonContainer} >
+            <RoundedButton 
+              text="flip"
+              onPress={this.flipCard}
+            />
+          </View>
+          :
+          <View style={styles.buttonContainer}>
+            <RoundedButton 
+              text="✔️" 
+              onPress={this.correct}
+            />
+            <RoundedButton 
+              text="❌"
+              onPress={this.wrong}
+            />
+          </View>
+          }
+         </View>
         }
       </View>
     )
