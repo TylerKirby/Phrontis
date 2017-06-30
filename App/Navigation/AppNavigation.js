@@ -4,6 +4,7 @@ import VocabScreen from '../Containers/VocabScreen'
 import UnitSelectScreen from '../Containers/UnitSelectScreen'
 
 import styles from './Styles/NavigationStyles'
+import { Colors } from '../Themes';
 
 // Manifest of possible screens
 const PrimaryNav = StackNavigator({
@@ -23,7 +24,9 @@ const PrimaryNav = StackNavigator({
   initialRouteName: 'LaunchScreen',
   headerMode: 'screen',
   navigationOptions: {
-    headerStyle: styles.header
+    headerStyle: styles.header,
+    headerTitleStyle: styles.title,
+    headerTintColor: Colors.white,
   }
 });
 

@@ -1,11 +1,11 @@
 import { StyleSheet } from 'react-native'
-import { Metrics, ApplicationStyles } from '../../Themes/'
+import { Metrics, ApplicationStyles, Colors } from '../../Themes/'
 
 export default StyleSheet.create({
   ...ApplicationStyles.screen,
   container: {
     paddingBottom: Metrics.baseMargin,
-    backgroundColor: '#48639C',
+    backgroundColor: Colors.azure,
     flex: 1,
     justifyContent: 'center'
   },
@@ -19,10 +19,10 @@ export default StyleSheet.create({
     alignItems: 'center'
   },
   title: {
-    fontSize: 30,
-    color: 'white',
+    fontSize: 60,
+    color: Colors.yellowOrange,
     textAlign: 'center',
-    fontFamily: 'ArialHebrew-Light'
+    fontFamily: 'ArialHebrew-Light',
   },
   buttonBox: {
     flex: 2,

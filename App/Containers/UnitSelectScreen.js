@@ -2,7 +2,8 @@ import React from 'react';
 import { View, Picker } from 'react-native';
 import RoundedButton from '../Components/RoundedButton';
 
-import styles from './Styles/VocabScreenStyles'
+// Styles
+import styles from './Styles/UnitSelectScreenStyles';
 
 export default class UnitSelectScreen extends React.Component {
   constructor(props) {
@@ -10,16 +11,7 @@ export default class UnitSelectScreen extends React.Component {
     this.state = {
       selectedChapter: 'unit1'
     };
-    this.onValueChange = this.onValueChange.bind(this);
     this.onPress = this.onPress.bind(this);
-  }
-
-  
-
-  onValueChange(itemValue) {
-    this.setState({
-      selectedChapter: `unit${itemValue}`,
-    })
   }
 
   onPress() {
@@ -30,14 +22,21 @@ export default class UnitSelectScreen extends React.Component {
   render() {
     const units = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
     const unitsButtons = units.map((unit) =>
-      <Picker.Item label={`Chapter ${unit}`} value={unit} key={unit} />
+      <Picker.Item 
+        label={`Unit ${unit}`} 
+        value={unit} 
+        key={unit} 
+        style={styles.text}
+      />
     );
     return (
-      <View>
+      <View style={styles.container}>
         <Picker
-          style={{width: 100}}
+          itemStyle={styles.text}
+          style={styles.picker}
           selectedValue={this.state.selectedChapter}
-          onValueChange={this.onValueChange}>
+          onValueChange={(value) => {this.setState({ selectedChapter: `unit${value}` })}}
+        >
           {unitsButtons}
         </Picker>
         <RoundedButton
