@@ -110,6 +110,7 @@ export default class VocabScreen extends React.Component {
             <RoundedButton 
               text="✔️" 
               onPress={this.correct}
+              style={{color: '#FFF'}}
             />
             <RoundedButton 
               text="❌"

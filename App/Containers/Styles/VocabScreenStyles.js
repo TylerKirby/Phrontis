@@ -6,20 +6,18 @@ export default StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#48639C',
+    backgroundColor: Colors.azure,
     paddingBottom: Metrics.baseMargin,
   },
   cardContainer: {
     backgroundColor: 'white',
     width: Metrics.screenWidth * .75,
     height: Metrics.screenHeight / 4,
-    borderWidth: 10,
     alignItems: 'center',
     justifyContent: 'center',
   },
   buttonContainer: {
-    borderWidth: 5,
-    flexDirection: 'row'
+    flexDirection: 'row',
   },
   cardText: {
     color: 'black',
