@@ -9,14 +9,14 @@ export default class UnitSelectScreen extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      selectedChapter: 'unit1'
+      selectedChapter: '1'
     };
     this.onPress = this.onPress.bind(this);
   }
 
   onPress() {
     console.log(this.state.selectedChapter)
-    return this.props.navigation.navigate('VocabScreen', {selectedChapter: this.state.selectedChapter});
+    return this.props.navigation.navigate('VocabScreen', {selectedChapter: `unit${this.state.selectedChapter}`});
   }
 
   render() {
@@ -35,7 +35,7 @@ export default class UnitSelectScreen extends React.Component {
           itemStyle={styles.text}
           style={styles.picker}
           selectedValue={this.state.selectedChapter}
-          onValueChange={(value) => {this.setState({ selectedChapter: `unit${value}` })}}
+          onValueChange={(itemValue, itemIndex) => this.setState({ selectedChapter: itemValue })}
         >
           {unitsButtons}
         </Picker>
