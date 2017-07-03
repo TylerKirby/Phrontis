@@ -17,7 +17,7 @@ export default class LaunchScreen extends React.Component {
         </Text>
         <View>
           <RoundedButton
-            text="Vocabulary"
+            text="VOCABULARY"
             onPress={() => this.props.navigation.navigate('UnitSelectScreen')}
           />
         </View>

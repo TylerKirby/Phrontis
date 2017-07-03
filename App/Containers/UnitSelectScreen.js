@@ -42,7 +42,7 @@ export default class UnitSelectScreen extends React.Component {
         </View>
         <View>
           <RoundedButton
-            text="Submit"
+            text="SUBMIT"
             onPress={this.onPress}
             style={styles.submitButton}
           />
