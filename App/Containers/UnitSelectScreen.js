@@ -31,18 +31,22 @@ export default class UnitSelectScreen extends React.Component {
     );
     return (
       <View style={styles.container}>
-        <Picker
-          itemStyle={styles.text}
-          style={styles.picker}
-          selectedValue={this.state.selectedChapter}
-          onValueChange={(itemValue, itemIndex) => this.setState({ selectedChapter: itemValue })}
-        >
-          {unitsButtons}
-        </Picker>
-        <RoundedButton
-          text="Submit"
-          onPress={this.onPress}
-        />
+        <View style={styles.pickerContainer}>
+          <Picker
+            itemStyle={styles.text}
+            selectedValue={this.state.selectedChapter}
+            onValueChange={(itemValue, itemIndex) => this.setState({ selectedChapter: itemValue })}
+          >
+            {unitsButtons}
+          </Picker>
+        </View>
+        <View>
+          <RoundedButton
+            text="Submit"
+            onPress={this.onPress}
+            style={styles.submitButton}
+          />
+        </View>
       </View>
     )
   }

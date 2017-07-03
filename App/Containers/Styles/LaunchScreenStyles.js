@@ -7,7 +7,8 @@ export default StyleSheet.create({
     paddingBottom: Metrics.baseMargin,
     backgroundColor: Colors.azure,
     flex: 1,
-    justifyContent: 'center'
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   logo: {
     marginTop: Metrics.doubleSection,

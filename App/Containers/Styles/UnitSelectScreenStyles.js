@@ -5,13 +5,15 @@ export default StyleSheet.create({
   container: {
     backgroundColor: Colors.azure,
     flex: 2,
-    justifyContent: 'space-around',
+    justifyContent: 'center',
     alignItems: 'center',
-  },
-  picker: {
-    width: 200
   },
   text: {
     color: Colors.white
+  },
+  pickerContainer: {
+    width: 150,
+    paddingBottom: 100
   }
+  
 })
