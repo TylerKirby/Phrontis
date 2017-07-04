@@ -9,14 +9,2190 @@
       "english": "brother"
     },
     {
-      "greek": "testGreek3",
-      "english": "testEnglish3"
+    	"greek": "ἄνθρωπος, ἀνθρώπου, ὁ",
+    	"english": "man, human being"
+    },
+    {
+    	"greek": "βιβλίον, βιβλίου, τό",
+    	"english": "book"
+    },
+    {
+    	"greek": "δῶρον, δώρου, τό",
+    	"english": "gift, bribe (especially in pl.)"
+    },
+    {
+    	"greek": "εἰς (prep.)",
+    	"english": "+acc. into, to, for (purpose)"
+    },
+    {
+    	"greek": "ἐκ, ἐξ (prep.)",
+    	"english": "+ gen. from, out of"
+    },
+    {
+    	"greek": "ἐν (prep.)",
+    	"english": "+dat. in"
+    },
+    {
+    	"greek": "ἔργον, ἔργου, τό",
+    	"english": "work, deed"
+    },
+    {
+    	"greek": "θεός, θεοῦ, ὁ or ἡ",
+    	"english": "god, goddess"
+    },
+    {
+    	"greek": "καί (conj. or adj.)",
+    	"english": "(conj.) and; (adv.) even, also"
+    },
+    {
+    	"greek": "καί...καί (conjs.)",
+    	"english": "both...and"
+    },
+    {
+    	"greek": "λόγος, λόγου, ὁ",
+    	"english": "word, speech, story"
+    },
+    {
+    	"greek": "μάχη, μάχης, ἡ",
+    	"english": "battle"
+    },
+    {
+    	"greek": "νῆσος, νήσου, ἡ",
+    	"english": "island"
+    },
+    {
+    	"greek": "ὁ, ἡ, τό",
+    	"english": "the (often shows possession)"
+    },
+    {
+    	"greek": "ὁδός, ὁδοῦ, ἡ",
+    	"english": "road"
+    },
+    {
+    	"greek": "οἰκία, οἰκίας, ἡ",
+    	"english": "house"
+    },
+    {
+    	"greek": "Ὅμηρος, Ὁμήρου, ὁ",
+    	"english": "Homer (epic poet)"
+    },
+    {
+    	"greek": "παιδεύει",
+    	"english": "educates, teaches"
+    },
+    {
+    	"greek": "πέμπει",
+    	"english": "sends"
+    },
+    {
+    	"greek": "τέχνη, τέχνης, ἡ",
+    	"english": "art, skill, craft"
+    },
+    {
+    	"greek": "χώρα, χώρας, ἡ",
+    	"english": "land, country"
+    },
+    {
+    	"greek": "ψυχή, ψυχῆς, ἡ",
+    	"english": "soul"
+    },
+    {
+    	"greek": "ὦ (interjection)",
+    	"english": "used with vocative"
     }
   ],
   "unit2": [
     {
-      "greek": "testGreek",
-      "english": "testEnglish"
+    	"greek": "ἄγγελος, ἀγγέλου, ὁ",
+    	"english": "messenger"
+    },
+    {
+    	"greek": "ἀπό (prep.)",
+    	"english": "+gen. from, away from"
+    },
+    {
+    	"greek": "ἆρα (particle)",
+    	"english": "introduces a question"
+    },
+    {
+    	"greek": "γάρ (postpositive conj.)",
+    	"english": "for (explanatory)"
+    },
+    {
+    	"greek": "δέ (postpositive conj.)",
+    	"english": "but"
+    },
+    {
+    	"greek": "ἕξ",
+    	"english": "(indeclinable numeral) six"
+    },
+    {
+    	"greek": "εὖ (adv.)",
+    	"english": "well"
+    },
+    {
+    	"greek": "ζῷον, ζῴου, τό",
+    	"english": "animal"
+    },
+    {
+    	"greek": "ἤ (conj.)",
+    	"english": "or"
+    },
+    {
+    	"greek": "ἤ...ἤ (conjs.)",
+    	"english": "either...or"
+    },
+    {
+    	"greek": "κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην",
+    	"english": "order, command"
+    },
+    {
+    	"greek": "λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην",
+    	"english": "unbind, free, release, dissolve, destroy"
+    },
+    {
+    	"greek": "μέν...δέ",
+    	"english": "on the one hand... on the other hand"
+    },
+    {
+    	"greek": "νῦν (adv.)",
+    	"english": "now"
+    },
+    {
+    	"greek": "ξένος, ξένου, ὁ",
+    	"english": "guest-friend, host, stranger, foreigner"
+    },
+    {
+    	"greek": "οὐ, οὐκ οὐχ",
+    	"english": "not"
+    },
+    {
+    	"greek": "παιδεύω, παιδεύσω, ἐπαίδευσα, πεπαίδευκα, πεπαίδευμαι, ἐπαιδεύθην",
+    	"english": "educate, teach"
+    },
+    {
+    	"greek": "παρά (prep.)",
+    	"english": "+gen. from (the side of); +dat. at (the side of), at the house of; +acc. to (the side of), beside, contrary to"
+    },
+    {
+    	"greek": "πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην",
+    	"english": "send"
+    },
+    {
+    	"greek": "πέντε",
+    	"english": "(indeclinable numeral) five"
+    },
+    {
+    	"greek": "πόλεμος, πολέμου, ὁ",
+    	"english": "war"
+    },
+    {
+    	"greek": "πρό (prep.)",
+    	"english": "+gen. before, in front of"
+    },
+    {
+    	"greek": "στέφανος, στεφάνου, ὁ",
+    	"english": "crown, wreath"
+    },
+    {
+    	"greek": "φίλος, φίλου, ὁ",
+    	"english": "friend"
+    },
+    {
+    	"greek": "φιλία, φιλίας, ἡ",
+    	"english": "friendship"
+    },
+    {
+    	"greek": "χρυσός, χρυσοῦ, ὁ",
+    	"english": "gold"
     }
+  ],
+  "unit3": [
+  	{
+  		"greek": "ἆθλον, ἄθλου, τό",
+  		"english": "prize"
+  	},
+  	{
+  		"greek": "ἀλλά (conj.)",
+  		"english": "but"
+  	},
+  	{
+  		"greek": "ἀντί (prep.)",
+  		"english": "+gen. instead of"
+  	},
+  	{
+  		"greek": "ἀρετή, ἀρετῆς, ἡ",
+  		"english": "excellence, virtue"
+  	},
+  	{
+  		"greek": "βουλή, βουλῆς, ἡ",
+  		"english": "will, council"
+  	},
+  	{
+  		"greek": "γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην",
+  		"english": "write, draw"
+  	},
+  	{
+  		"greek": "δή (postpositive article)",
+  		"english": "in fact, of course"
+  	},
+  	{
+  		"greek": "δῆμος, δήμου, ὁ",
+  		"english": "the people"
+  	},
+  	{
+  		"greek": "δημοκρατία, δημοκρατίας, ἡ",
+  		"english": "democracy"
+  	},
+  	{
+  		"greek": "διά (prep.)",
+  		"english": "+gen. through; +acc. on account of"
+  	},
+  	{
+  		"greek": "εἰρήνη, εἰρήνης, ἡ",
+  		"english": "peace"
+  	},
+  	{
+  		"greek": "ἐκκλησία, ἐκκλησίας, ἡ",
+  		"english": "assembly"
+  	},
+  	{
+  		"greek": "ἐπεί (conj.)",
+  		"english": "after, when, since"
+  	},
+  	{
+  		"greek": "ἐπειδή (conj.)",
+  		"english": "after, when, since"
+  	},
+  	{
+  		"greek": "θύω, θύσω, ἔθυσα, τέθυκα, τέθυμαι, ἐτύθην",
+  		"english": "sacrifice"
+  	},
+  	{
+  		"greek": "θυσία, θυσίας, ἡ",
+  		"english": "sacrifice"
+  	},
+  	{
+  		"greek": "ἵνα (conj.)",
+  		"english": "in order that"
+  	},
+  	{
+  		"greek": "μή (adv.)",
+  		"english": "not"
+  	},
+  	{
+  		"greek": "νίκη, νίκης, ἡ",
+  		"english": "victory"
+  	},
+  	{
+  		"greek": "ὅπως (conj.)",
+  		"english": "in order that"
+  	},
+  	{
+  		"greek": "ὀφθαλμός, ὀφθαλμοῦ, ὁ",
+  		"english": "eye"
+  	},
+  	{
+  		"greek": "παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην",
+  		"english": "make stop, stop"
+  	},
+  	{
+  		"greek": "περί (prep.)",
+  		"english": "+gen. concerning about; +dat. around; +acc. around, concerning"
+  	},
+  	{
+  		"greek": "φυλάττω, φυλάξω, ἐφύλαξα, πεφύλαχα, πεφύλαγμαι, ἐφυλάχθην",
+  		"english": "guard"
+  	},
+  	{
+  		"greek": "ὡς (conj.)",
+  		"english": "in order that"
+  	}
+  ],
+  "unit4": [
+  	{
+  		"greek": "ἀγαθός, ἀγαθή, ἀγαθόν",
+  		"english": "good"
+  	},
+  	{
+  		"greek": "ἄν (particle)",
+  		"english": "used in some conditional sentences"
+  	},
+  	{
+  		"greek": "ἄξιος, ἀξία, ἄξιον",
+  		"english": "worthy, worth (+gen.)"
+  	},
+  	{
+  		"greek": "ἀνάξιος, ἀνάξιον",
+  		"english": "unworthy (+gen.)"
+  	},
+  	{
+  		"greek": "ἀρχή, ἀρχῆς, ἡ",
+  		"english": "beginning, rule, empire"
+  	},
+  	{
+  		"greek": "γέφυρα, γεφύρας, ἡ",
+  		"english": "bridge"
+  	},
+  	{
+  		"greek": "διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην",
+  		"english": "teach"
+  	},
+  	{
+  		"greek": "δίκη, δίκης, ἡ",
+  		"english": "justice, lawsuit"
+  	},
+  	{
+  		"greek": "ἄδικος, ἄδικον",
+  		"english": "unjust"
+  	},
+  	{
+  		"greek": "δίκαιος, δικαία, δίκαιον",
+  		"english": "just"
+  	},
+  	{
+  		"greek": "ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, -, -",
+  		"english": "be willin, wish"
+  	},
+  	{
+  		"greek": "εἰ (particle)",
+  		"english": "if"
+  	},
+  	{
+  		"greek": "ἐάν (particle)",
+  		"english": "if"
+  	},
+  	{
+  		"greek": "ἡμέρα, ἡμέρας, ἡ",
+  		"english": "day"
+  	},
+  	{
+  		"greek": "θάλαττα, θαλάττης, ἡ",
+  		"english": "sea"
+  	},
+  	{
+  		"greek": "θάπτω, θάψω, ἔθαψα, -, τέθαμμαι, ἐτάφην",
+  		"english": "bury"
+  	},
+  	{
+  		"greek": "καίτοι (particle)",
+  		"english": "and further, and yet"
+  	},
+  	{
+  		"greek": "κακός, κακή, κακόν",
+  		"english": "bad, evil"
+  	},
+  	{
+  		"greek": "καλός, καλή, καλόν",
+  		"english": "beautiful, noble, good"
+  	},
+  	{
+  		"greek": "μετά (prep.)",
+  		"english": "+gen. with; +acc. after"
+  	},
+  	{
+  		"greek": "μοῖρα, μοίρας, ἡ",
+  		"english": "fate"
+  	},
+  	{
+  		"greek": "μοῦσα, μούσης, ἡ",
+  		"english": "muse"
+  	},
+  	{
+  		"greek": "νεανίας, νεανίου, ὁ",
+  		"english": "young man"
+  	},
+  	{
+  		"greek": "ὅπλον, ὅπλου, τό",
+  		"english": "tool, (pl.) weapons"
+  	},
+  	{
+  		"greek": "ὁπλίτης, ὁπλίτου, ὁ",
+  		"english": "hoplite, heavy-armed foot-soldier"
+  	},
+  	{
+  		"greek": "πάλαι (adv.)",
+  		"english": "long ago"
+  	},
+  	{
+  		"greek": "ποιητής, ποιητοῦ, ὁ",
+  		"english": "poet, author"
+  	},
+  	{
+  		"greek": "πολίτης, πολίτου, ὁ",
+  		"english": "citizen"
+  	},
+  	{
+  		"greek": "στρατιώτης, στρατιώτου, ὁ",
+  		"english": "soldier"
+  	},
+  	{
+  		"greek": "σύν (prep.)",
+  		"english": "+dat. with"
+  	},
+  	{
+  		"greek": "τάττω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην",
+  		"english": "draw up in order, station, appoint"
+  	},
+  	{
+  		"greek": "φίλος, φίλη, φίλον",
+  		"english": "dear, beloved, one's own"
+  	}
+  ],
+  "unit5": [
+  	{
+  		"greek": "ἄργυρος, ἀργύρου, ὁ",
+  		"english": "silver"
+  	},
+  	{
+  		"greek": "ἀργύριον, ἀργυρίου, τό",
+  		"english": "small coin, money"
+  	},
+  	{
+  		"greek": "ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην",
+  		"english": "rule, command (+gen.)"
+  	},
+  	{
+  		"greek": "βλάπτω, βλάψω, ἔβλαψα, βέβλαφα, βέβλαμμαι, ἐβλάβην or ἐβλάφθην",
+  		"english": "hurt, harm"
+  	},
+  	{
+  		"greek": "γῆ, γῆς, ἡ",
+  		"english": "earth, land"
+  	},
+  	{
+  		"greek": "διδάσκαλος, διδασκάλου, ὁ",
+  		"english": "teacher"
+  	},
+  	{
+  		"greek": "δόξα, δόξης, ἡ",
+  		"english": "expectation, belief, reputation, glory"
+  	},
+  	{
+  		"greek": "θάνατος, θανάτου, ὁ",
+  		"english": "death"
+  	},
+  	{
+  		"greek": "ἀθάνατος, ἀθάνατον",
+  		"english": "undying, immortal"
+  	},
+  	{
+  		"greek": "ἱερός, ἱερά, ἱερόν",
+  		"english": "holy, sacred to (+gen.)"
+  	},
+  	{
+  		"greek": "ἱερόν, ἱεροῦ, τό",
+  		"english": "shrine"
+  	},
+  	{
+  		"greek": "ἱκανός, ἱκανή, ἱκανόν",
+  		"english": "sufficient, capable"
+  	},
+  	{
+  		"greek": "ἵππος, ἵππου, ὁ or ἡ",
+  		"english": "horse, mare"
+  	},
+  	{
+  		"greek": "κίνδυνος, κινδύνου, ὁ",
+  		"english": "danger"
+  	},
+  	{
+  		"greek": "λίθος, λίθου, ὁ",
+  		"english": "stone"
+  	},
+  	{
+  		"greek": "μακρός, μακρά, μακρόν",
+  		"english": "long, tall"
+  	},
+  	{
+  		"greek": "μικρός, μικρά, μικρόν",
+  		"english": "small, little, short"
+  	},
+  	{
+  		"greek": "πεδίον, πεδίου, τό",
+  		"english": "plain"
+  	},
+  	{
+  		"greek": "πείθω, πείσω, ἔπεισα, πέπεικα, πέπεισμαι, ἐπείσθην",
+  		"english": "persuade"
+  	},
+  	{
+  		"greek": "πολέμιος, πολεμία, πολέμιον",
+  		"english": "hostile (+dat.)"
+  	},
+  	{
+  		"greek": "πράττω, πράξω, ἔπραξα, πέπραχα (trans.) or πέπραγα (intrans.), πέπραγμαι, ἐπράχθην",
+  		"english": "do, fare"
+  	},
+  	{
+  		"greek": "πρῶτος, πρώτη, πρῶτον",
+  		"english": "first"
+  	},
+  	{
+  		"greek": "ὑπό (prep.)",
+  		"english": "+gen. by (personal agent), under; +dat. under, under the power of; +acc. under (with motion), toward (of time)"
+  	},
+  	{
+  		"greek": "φόβος, φόβου, ὁ",
+  		"english": "fear"
+  	},
+  	{
+  		"greek": "φοβερός, φοβερά, φοβερόν",
+  		"english": "fearful"
+  	}
+  ],
+  "unit6": [
+  	{
+  		"greek": "αἴξ, αἰγός, ὁ or ἡ",
+  		"english": "goat"
+  	},
+  	{
+  		"greek": "γε (enclitic particle)",
+  		"english": "emphasizes or limits preceding word; at any rate, at least"
+  	},
+  	{
+  		"greek": "γέρων, γέροντος, ὁ",
+  		"english": "old man"
+  	},
+  	{
+  		"greek": "γνώμη, γνώμης, ἡ",
+  		"english": "opinion, judgment"
+  	},
+  	{
+  		"greek": "δεινός, δεινή, δεινόν",
+  		"english": "fearsome, marvelous, clever"
+  	},
+  	{
+  		"greek": "δοῦλος, δούλου, ὁ",
+  		"english": "slave"
+  	},
+  	{
+  		"greek": "δουλεία, δουλείας, ἡ",
+  		"english": "slavery"
+  	},
+  	{
+  		"greek": "δουλεύω, δουλεύσω, ἐδούλευσα, δεδούλευκα, -, -",
+  		"english": "be a slave (+dat.)"
+  	},
+  	{
+  		"greeK": "ἐλεύθερος, ἐλευθέρα, ἐλεύθερον",
+  		"english": "free (+gen.)"
+  	},
+  	{
+  		"greek": "ἐλευθερία, ἐλευθερίας, ἡ",
+  		"english": "freedom"
+  	},
+  	{
+  		"greek": "Ἕλλην, Ἕλληνος, ὁ",
+  		"english": "a Greek"
+  	},
+  	{
+  		"greek": "ἐλπίς, ἐλπίδος, ἡ",
+  		"english": "hope, expectation"
+  	},
+  	{
+  		"greek": "κατά (prep.)",
+  		"english": "+gen. under, against; +acc. according to"
+  	},
+  	{
+  		"greek": "κωλύω, κωλύσω, ἐκώλυσα, κεκώλυκα, κεκώλυμαι, ἐκωλύθην",
+  		"english": "hinder, prevent"
+  	},
+  	{
+  		"greek": "νύξ, νυκτός, ἡ",
+  		"english": "night"
+  	},
+  	{
+  		"greek": "ὅς, ἥ, ὅ (relative pronoun)",
+  		"english": "who, which"
+  	},
+  	{
+  		"greek": "παλαιός, παλαιά, παλαιόν",
+  		"english": "old, aged, ancient"
+  	},
+  	{
+  		"greek": "πολιτεύω, πολιτεύσω, ἐπολίτευσα, πεπολίτευκα, πεπολίτευμαι, ἐπολιτεύθην",
+  		"english": "live as a citizen, conduct the government, (pass.) be governed"
+  	},
+  	{
+  		"greek": "πρᾶγμα, πράγματος, τό",
+  		"english": "deed, affair, thing"
+  	},
+  	{
+  		"greek": "σοφός, σοφή, σοφόν",
+  		"english": "wise, skilled"
+  	},
+  	{
+  		"greek": "σοφία, σοφίας, ἡ",
+  		"english": "wisdom, skilled"
+  	},
+  	{
+  		"greek": "στάδιον, σταδίου, τό (pl. τὰ στάδια or οἱ στάδιοι)",
+  		"english": "stade (= ca. 600 ft.)"
+  	},
+  	{
+  		"greek": "σῶμα, σώματος, τό",
+  		"english": "body"
+  	},
+  	{
+  		"greek": "τε (enclitic conj.)",
+  		"english": "and"
+  	},
+  	{
+  		"greek": "τοι (enclitic particle)",
+  		"english": "let me tell you, you know"
+  	},
+  	{
+  		"greek": "φάλαγξ, φάλαγγος, ἡ",
+  		"english": "line of battle, phalanx"
+  	},
+  	{
+  		"greek": "φύλαξ, φύλακος, ὁ",
+  		"english": "guard"
+  	},
+  	{
+  		"greek": "χάρις, χάριτος, ἡ",
+  		"english": "grace, favor, gratitude"
+  	},
+  	{
+  		"greek": "χάριν (prep.)",
+  		"english": "+ preceding gen. for the sake of"
+  	},
+  	{
+  		"greek": "χορός, χοροῦ, ὁ",
+  		"english": "dance, chorus"
+  	},
+  	{
+  		"greek": "χορεύω, χορεύσω, ἐχόρευσα, κεχόρευκα, κεχόρευμαι, ἐχορεύθην",
+  		"english": "dance, take part in a chorus"
+  	},
+  	{
+  		"greek": "χορευτής, χορευτοῦ, ὁ",
+  		"english": "choral dancer"
+  	}
+  ],
+  "unit7": [
+  	{
+  		"greek": "αἰσχρός, αἰσχρά, αἰσχρόν",
+  		"english": "ugly, shameful"
+  	},
+  	{
+  		"greek": "ἄλλος, ἄλλη, ἄλλο",
+  		"english": "another, other"
+  	},
+  	{
+  		"greek": "ἄνευ (prep.)",
+  		"english": "(+gen.) without"
+  	},
+  	{
+  		"greek": "γράμμα, γράμματος, τό",
+  		"english": "letter (of the alphabet), (pl.) documents"
+  	},
+  	{
+  		"greek": "γραφή, γραφῆς, ἡ",
+  		"english": "indictment"
+  	},
+  	{
+  		"greek": "δῆλος, δήλη, δῆλον",
+  		"english": "clear, visible"
+  	},
+  	{
+  		"greek": "ἄδηλος, ἄδηλον",
+  		"english": "unclear, uncertain"
+  	},
+  	{
+  		"greek": "εἰ γάρ (particle)",
+  		"english": "introduces optative of wish"
+  	},
+  	{
+  		"greek": "εἴθε (particle)",
+  		"english": "introduces optative of wish"
+  	},
+  	{
+  		"greek": "ἐκεῖ (adverb)",
+  		"english": "there (in that place)"
+  	},
+  	{
+  		"greek": "ἐκεῖνος, ἐκείνη, ἐκεῖνο",
+  		"english": "that"
+  	},
+  	{
+  		"greek": "ἡγεμών, ἡγεμόνος, ὁ",
+  		"english": "leader"
+  	},
+  	{
+  		"greek": "κλέπτω, κλέψω, ἔκλεψα, κέκλοφα, κέκλεμμαι, ἐκλάπην",
+  		"english": "steal"
+  	},
+  	{
+  		"greek": "κλέπτης, κλέπτου, ὁ",
+  		"english": "thief"
+  	},
+  	{
+  		"greek": "κλοπή, κλοπῆς, ἡ",
+  		"english": "theft"
+  	},
+  	{
+  		"greek": "λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην",
+  		"english": "leave, leave behind"
+  	},
+  	{
+  		"greek": "οὖν (postpositive particle)",
+  		"english": "then, therefore"
+  	},
+  	{
+  		"greek": "ποίημα, ποιήματος, τό",
+  		"english": "poem"
+  	},
+  	{
+  		"greek": "ῥήτωρ, ῥήτορος, ὁ",
+  		"english": "public speaker"
+  	},
+  	{
+  		"greek": "ῥητορική, ῥητορικῆς, ἡ",
+  		"english": "rhetoric"
+  	},
+  	{
+  		"greek": "σῴζω, σώσω, ἔσωσα, σέσωκα, σέσωσμαι or σέσωμαι, ἐσώθην",
+  		"english": "save"
+  	},
+  	{
+  		"greek": "σωτήρ, σωτῆρος, ὁ (voc. σῶτερ)",
+  		"english": "savior"
+  	},
+  	{
+  		"greek": "τιμή, τιμῆς, ἡ",
+  		"english": "honor, price"
+  	}
+  ],
+  "unit8": [
+  	{
+  		"greek": "ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην",
+  		"english": "lead"
+  	},
+  	{
+  		"greek": "Ἀθηναῖος, Ἀθηναία, Ἀθηναῖον",
+  		"english": "Athenian"
+  	},
+  	{
+  		"greek": "ἅμα (adv.)",
+  		"english": "at the same time"
+  	},
+  	{
+  		"greek": "ἅμα (prep.)",
+  		"english": "+dat. at the same time as, together with"
+  	},
+  	{
+  		"greek": "ἅτε (particle)",
+  		"english": "with causal participle: speaker's assertion"
+  	},
+  	{
+  		"greek": "ἔπειτα (adv.)",
+  		"english": "then, thereupon"
+  	},
+  	{
+  		"greek": "ἥκω, ἥξω, -, -, -, -",
+  		"english": "have come, be present"
+  	},
+  	{
+  		"greek": "καίπερ (adv.)",
+  		"english": "although"
+  	},
+  	{
+  		"greek": "μήτε...μήτε (conjunctions)",
+  		"english": "neither...nor"
+  	},
+  	{
+  		"greek": "οἷα (particle)",
+  		"english": "with causal participle: speaker's assertion"
+  	},
+  	{
+  		"greek": "οἶνος, οἴνου, ὁ",
+  		"english": "wine"
+  	},
+  	{
+  		"greek": "ὅμως (adv.)",
+  		"english": "nevertheless"
+  	},
+  	{
+  		"greek": "οὔτε...οὔτε (conjunctions)",
+  		"english": "neither...nor"
+  	},
+  	{
+  		"greek": "πᾶς, πᾶσα, πᾶν",
+  		"english": "all, every, whole"
+  	},
+  	{
+  		"greek": "ἅπας, ἅπασα, ἅπαν",
+  		"english": "all, quite all"
+  	},
+  	{
+  		"greek": "σύμπας, σύμπασα, σύμπαν",
+  		"english": "all together"
+  	},
+  	{
+  		"greek": "στρατός, στρατοῦ, ὁ",
+  		"english": "army"
+  	},
+  	{
+  		"greek": "στρατηγός, στρατηγοῦ, ὁ",
+  		"english": "general"
+  	},
+  	{
+  		"greek": "χρῆμα, χρήματος, τό",
+  		"english": "thing, (pl.) goods, property, money"
+  	},
+  	{
+  		"greek": "ὡς (conj.)",
+  		"english": "witih participle of cuase or purpose: not asserted by speaker of sentence"
+  	}
+  ],
+  "unit9": [
+  	{
+  		"greek": "ἀγών, ἀγῶνος, ὁ",
+  		"english": "contest, struggle"
+  	},
+  	{
+  		"greek": "ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην",
+  		"english": "do wrong, wrong"
+  	},
+  	{
+  		"greek": "ἄλογος, ἄλογον",
+  		"english": "unreasoning, unreasonable, irrational"
+  	},
+  	{
+  		"greek": "βάρβαρος, βάρβαρον",
+  		"english": "non-Greek, foreign"
+  	},
+  	{
+  		"greek": "βίος, βίου, ὁ",
+  		"english": "life, means of living"
+  	},
+  	{
+  		"greek": "δαίμων, δαίμονος, ὁ or ἡ",
+  		"english": "god, goddess, divine being"
+  	},
+  	{
+  		"greek": "ἐχθρός, ἐχθρά, ἐχθρόν",
+  		"english": "hated, hostile, (as substantive) enemy"
+  	},
+  	{
+  		"greek": "νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην",
+  		"english": "win, conquer"
+  	},
+  	{
+  		"greek": "ὅδε, ἥδε, τόδε",
+  		"english": "this"
+  	},
+  	{
+  		"greek": "ὄνομα, ὀνόματος, τό",
+  		"english": "name"
+  	},
+  	{
+  		"greek": "οὗτος, αὕτη, τοῦτο",
+  		"english": "this, that"
+  	},
+  	{
+  		"greek": "οὕτω(ς) (adv.)",
+  		"english": "in this way, so, thus"
+  	},
+  	{
+  		"greek": "πεῖρα, πείρας, ἡ",
+  		"english": "trial, attempt, experience"
+  	},
+  	{
+  		"greek": "ἔμπειρος, ἔμπειρον",
+  		"english": "experienced in, acquainted with (+gen.)"
+  	},
+  	{
+  		"greek": "ἐμπειρία, ἐμπειρίας, ἡ",
+  		"english": "experience, practice"
+  	},
+  	{
+  		"greek": "ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην",
+  		"english": "make, do"
+  	},
+  	{
+  		"greek": "σιγή, σιγῆς, ἡ",
+  		"english": "silence"
+  	},
+  	{
+  		"greek": "τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην",
+  		"english": "honor"
+  	},
+  	{
+  		"greek": "τρόπος, τρόπου, ὁ",
+  		"english": "way, manner, character"
+  	},
+  	{
+  		"greek": "ὕδωρ, ὕδατος, τό",
+  		"english": "water"
+  	},
+  	{
+  		"greek": "ὑπέρ (prep.)",
+  		"english": "+gen. over, above, on behalf of; +acc. (of motion or measure) over, beyond"
+  	}
+  ],
+  "unit10": [
+  	{
+  		"greek": "ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην",
+  		"english": "announce"
+  	},
+  	{
+  		"greek": "ἀληθής, ἀληθές",
+  		"english": "true, real"
+  	},
+  	{
+  		"greek": "ἀλήθεια, ἀληθείας, ἡ",
+  		"english": "truth, reality"
+  	},
+  	{
+  		"greek": "ἀνήρ, ἀνδρός, ὁ",
+  		"english": "man"
+  	},
+  	{
+  		"greek": "ἀξιόω, ἀξιώσω, ἠξίωσα, ἠξίωκα, ἠξίωμαι, ἠξιώθην",
+  		"english": "think worthy of, think it right, expect"
+  	},
+  	{
+  		"greek": "ἀπο- (prefix)",
+  		"english": "away from"
+  	},
+  	{
+  		"greek": "βασιλεύς, βασιλέως, ὁ",
+  		"english": "king"
+  	},
+  	{
+  		"greek": "γένος, γένους, τό",
+  		"english": "race, kind"
+  	},
+  	{
+  		"greek": "εὐγενής, εὐγενές",
+  		"english": "well-born, noble"
+  	},
+  	{
+  		"greek": "δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην",
+  		"english": "make clear, show"
+  	},
+  	{
+  		"greek": "Δημοσθένης, Δημοσθένους, ὁ",
+  		"english": "Demosthenes (ῥήτωρ)"
+  	},
+  	{
+  		"greek": "ἐκ-, ἐξ- (prefix)",
+  		"english": "out of, thoroughly"
+  	},
+  	{
+  		"greek": "εὐδαίμων, εὔδαιμον",
+  		"english": "fortunate, wealthy, happy"
+  	},
+  	{
+  		"greek": "θυγάτηρ, θυγατρός, ἡ",
+  		"english": "daughter"
+  	},
+  	{
+  		"greek": "ἱερεύς, ἱερέως, ὁ",
+  		"english": "priest"
+  	},
+  	{
+  		"greek": "ἱππεύς, ἱππέως, ὁ",
+  		"english": "horseman"
+  	},
+  	{
+  		"greek": "καλέω, καλῶ, ἐκάλεσα, κέκληκα, κέκλημαι, ἐκλήθην",
+  		"english": "call"
+  	},
+  	{
+  		"greek": "μένω, μενῶ, ἔμεινα, μεμένηκα, -, -",
+  		"english": "remain, stay"
+  	},
+  	{
+  		"greek": "μήτηρ, μητρός, ἡ",
+  		"english": "mother"
+  	},
+  	{
+  		"greek": "νόμος, νόμου, ὁ",
+  		"english": "custom, law"
+  	},
+  	{
+  		"greek": "πάθος, πάθους, τό",
+  		"english": "experience, suffering"
+  	},
+  	{
+  		"greek": "πατήρ, πατρός, ὁ",
+  		"english": "father"
+  	},
+  	{
+  		"greek": "πόλις, πόλεως, ἡ",
+  		"english": "city"
+  	},
+  	{
+  		"greek": "πότε (adv.)",
+  		"english": "when?"
+  	},
+  	{
+  		"greek": "ποτέ (enclitic adv.)",
+  		"english": "at some time, ever"
+  	},
+  	{
+  		"greek": "Σωκράτης, Σωκράτους, ὁ",
+  		"english": "Sokrates (philosopher)"
+  	},
+  	{
+  		"greek": "σώφρων, σῶφρον",
+  		"english": "prudent, temperate"
+  	},
+  	{
+  		"greek": "τέλος, τέλους, τό",
+  		"english": "end, power"
+  	},
+  	{
+  		"greek": "τελευτάω, τελευτήσω, ἐτελεύτησα, τετελεύτηκα, τετελεύτημαι, ἐτελευτήθην",
+  		"english": "finish, die"
+  	},
+  	{
+  		"greek": "φύσις, φύσεως, ἡ",
+  		"english": "nature"
+  	},
+  	{
+  		"greek": "ὥστε (conj.)",
+  		"english": "so as, so that"
+  	}
+  ],
+  "unit11": [
+  	{
+  		"greek": "ἀεί",
+  		"english": "always"
+  	},
+  	{
+  		"greek": "αἴτιος, αἰτία, αἴτιον",
+  		"english": "responsible (for), guilty (of) (+gen.)"
+  	},
+  	{
+  		"greek": "αἰτία, αἰτίας, ἡ",
+  		"english": "responsibility, guilt, cause"
+  	},
+  	{
+  		"greek": "ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, -, ἠκούσθην",
+  		"english": "hear (+acc. of thing heard, gen. of person heard), be spoken of"
+  	},
+  	{
+  		"greek": "αὐτός, αὐτή, αὐτό",
+  		"english": "(adj. in attributive position) same; (in predicate position or alone in nom.) -self, -selves; (pronoun in gen., dat., acc.) him, her, it, them"
+  	},
+  	{
+  		"greek": "ἄφρων, ἄφρον",
+  		"english": "senseless, foolish"
+  	},
+  	{
+  		"greek": "βάλλω, βαλῶ, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην",
+  		"english": "throw, hit (with thrown object)"
+  	},
+  	{
+  		"greek": "βούλομαι, βουλήσομαι, -, -, βεβούλημαι, ἐβουλήθην",
+  		"english": "want"
+  	},
+  	{
+  		"greek": "γυνή, γυναικός, ἡ (voc. γύναι)",
+  		"english": "woman, wife"
+  	},
+  	{
+  		"greek": "δέχομαι, δέξομαι, ἐδεξάμην, -, δέδεγμαι, -",
+  		"english": "receive, welcome"
+  	},
+  	{
+  		"greek": "ἀποδέχομαι",
+  		"english": "receive favorably, accept"
+  	},
+  	{
+  		"greek": "εἰσ- (prefix)",
+  		"english": "into, in, on"
+  	},
+  	{
+  		"greek": "ἐνταῦθα (adv.)",
+  		"english": "here, there, then"
+  	},
+  	{
+  		"greek": "ἐπειδάν (conj.)",
+  		"english": "after, when, whenever"
+  	},
+  	{
+  		"greek": "ἑπτά",
+  		"english": "(indeclinable numeral) seven"
+  	},
+  	{
+  		"greek": "ἔρως, ἔρωτος, ὁ",
+  		"english": "love"
+  	},
+  	{
+  		"greek": "καιρός, καιροῦ, ὁ",
+  		"english": "right moment"
+  	},
+  	{
+  		"greek": "κάλλος, κάλλους, τό",
+  		"english": "beauty"
+  	},
+  	{
+  		"greek": "κῆρυξ, κήρυκος, ὁ (dat. pl. κήρυξι(ν)",
+  		"english": "hearld"
+  	},
+  	{
+  		"greek": "λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην",
+  		"english": "take"
+  	},
+  	{
+  		"greek": "ὀκτώ",
+  		"english": "(indeclinable numeral) eight"
+  	},
+  	{
+  		"greek": "ὅτε (conj.)",
+  		"english": "when, whenever"
+  	},
+  	{
+  		"greek": "ὅταν (conj.)",
+  		"english": "when, whenever"
+  	},
+  	{
+  		"greek": "πάσχω, πείσομαι, ἔπαθον, πέπονθα, -, -",
+  		"english": "sufffer, have done to one"
+  	},
+  	{
+  		"greek": "πῶς (adv.)",
+  		"english": "how?"
+  	},
+  	{
+  		"greek": "πως (enclitic adjective)",
+  		"english": "in any way, in some way"
+  	},
+  	{
+  		"greek": "τότε (adv.)",
+  		"english": "then"
+  	},
+  	{
+  		"greek": "τύχη, τύχης, ἡ",
+  		"english": "fortune, chance"
+  	},
+  	{
+  		"greek": "εὐτυχής, εὐτυχές",
+  		"english": "lucky"
+  	},
+  	{
+  		"greek": "ὕβρις, ὕβρεως, ἡ",
+  		"english": "insolence"
+  	},
+  	{
+  		"greek": "φόνος, φόνου, ὁ",
+  		"english": "murder, killing"
+  	},
+  	{
+  		"greek": "φονεύς, φονέως, ὁ",
+  		"english": "murderer, killing"
+  	}
+  ],
+  "unit12": [
+  	{
+  		"greek": "-, ἀλλήλων (reciprocal pronoun)",
+  		"english": "one another"
+  	},
+  	{
+  		"greek": "ἀνα- (prefix)",
+  		"english": "up, up to"
+  	},
+  	{
+  		"greek": "γραφεύς, γραφέως, ὁ",
+  		"english": "writer, painter"
+  	},
+  	{
+  		"greek": "γραφική, γραφικῆς, ἡ",
+  		"english": "writing, painting"
+  	},
+  	{
+  		"greek": "δέκα",
+  		"english": "(indeclinable numeral) ten"
+  	},
+  	{
+  		"greek": "δημιουργός, δημιουργοῦ, ὁ",
+  		"english": "skilled workman"
+  	},
+  	{
+  		"greek": "δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην",
+  		"english": "give"
+  	},
+  	{
+  		"greek": "ἀποδίδωμι",
+  		"english": "give back, pay, permit, (mid.) sell"
+  	},
+  	{
+  		"greek": "ἐννέα",
+  		"english": "(indeclinable numeral) nine"
+  	},
+  	{
+  		"greek": "ἔπος, ἔπους, τό",
+  		"english": "word, (pl. sometimes) epic poetry"
+  	},
+  	{
+  		"greek": "ἑρμηνεύς, ἑρμηνέως, ὁ",
+  		"english": "interpreter"
+  	},
+  	{
+  		"greek": "ζωγράφος, ζωγράφου, ὁ",
+  		"english": "painter"
+  	},
+  	{
+  		"greek": "ἤ (conj.)",
+  		"english": "than"
+  	},
+  	{
+  		"greek": "ἵστημι, στήσω, ἔστησα (trans.) or ἔστην (intrans.), ἕστηκα (intrans.), ἕσταμαι, ἐστάθην",
+  		"english": "make stand, (middle or intrans.) stand"
+  	},
+  	{
+  		"greek": "ἀφίστημι, ἀποστήσω, ἀπέστησα (trans.) or ἀπέστην (intrans.), ἀφέστηκα (intrans.), ἀφέστμαι, ἀπεστάθην",
+  		"english": "(trans.) cause to revolt, (mid, or intrans.) revolt"
+  	},
+  	{
+  		"greek": "κατα- (prefix)",
+  		"english": "down, against, strengthens meaning of verb"
+  	},
+  	{
+  		"greek": "καθίστημι, καταστήσω, κατέστησα (trans.) or κατέστην (intrans.), καθέστηκα (intrans.), καθέσταμαι, κατεστάθην",
+  		"english": "(trans.) appoint, establish, put into a state, (intrans.) be established, be appointed, enter into a state"
+  	},
+  	{
+  		"greek": "καταλύω",
+  		"english": "destroy, dissolve"
+  	},
+  	{
+  		"greek": "μᾶλλον (adv.)",
+  		"english": "more, rather"
+  	},
+  	{
+  		"greek": "μή (conj.)",
+  		"english": "that, lest (with fear clauses)"
+  	},
+  	{
+  		"greek": "μηδέ (conj.)",
+  		"english": "and not"
+  	},
+  	{
+  		"greek": "μηδέ (adv.)",
+  		"english": "not even"
+  	},
+  	{
+  		"greek": "μόνος, μόνη, μόνον",
+  		"english": "alone"
+  	},
+  	{
+  		"greek": "μόνον (adv.)",
+  		"english": "only"
+  	},
+  	{
+  		"greek": "οὐδέ (conj.)",
+  		"english": "and not"
+  	},
+  	{
+  		"greek": "οὐδέ (adv.)",
+  		"english": "not even"
+  	},
+  	{
+  		"greek": "πόθεν (adv.)",
+  		"english": "from where?, whence?"
+  	},
+  	{
+  		"greek": "ποῖ (adv.)",
+  		"english": "(to) where?, whither?"
+  	},
+  	{
+  		"greek": "ποῦ (adv.)",
+  		"english": "where? in what place"
+  	},
+  	{
+  		"greek": "που (enclitic adv.)",
+  		"english": "qualifies an assertion, I suppose, somewhere"
+  	},
+  	{
+  		"greek": "πρός (prep.)",
+  		"english": "+gen. in the eyes of, in the name of; +dat. near, in addition to; +acc. toward"
+  	},
+  	{
+  		"greek": "προσ- (prefix)",
+  		"english": "to, against, besides"
+  	},
+  	{
+  		"greek": "συν- (prefix)",
+  		"english": "with, together"
+  	},
+  	{
+  		"greek": "τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην",
+  		"english": "put"
+  	},
+  	{
+  		"greek": "ἀνατίθημι",
+  		"english": "set up, dedicate"
+  	},
+  	{
+  		"greek": "φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην",
+  		"english": "love"
+  	},
+  	{
+  		"greek": "φοβέομαι, φοβήσομαι, -, -, πεφόβημαι, ἐφοβήθην",
+  		"english": "fear, be afraid"
+  	}
+  ],
+  "unit13": [
+  	{
+  		"greek": "Ἀριστοφάνης, Ἀριστοφάνους, ὁ",
+  		"english": "Aristophanes (comic poet)"
+  	},
+  	{
+  		"greek": "ἄρχωv, ἄρχοντος, ὁ",
+  		"english": "ruler, archon"
+  	},
+  	{
+  		"greek": "ἀσπίς, ἀσπίδος, ἡ",
+  		"english": "shield"
+  	},
+  	{
+  		"greek": "αὐτίκα (adv.)",
+  		"english": "immediately"
+  	},
+  	{
+  		"greek": "γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, -",
+  		"english": "be born, become, happen"
+  	},
+  	{
+  		"greek": "ἑορτή, ἑορτῆς, ἡ",
+  		"english": "festival"
+  	},
+  	{
+  		"greek": "ἐπί (prep.)",
+  		"english": "+gen. on; +dat. on, pertaining to, on condition that; +acc. onto, over, against, for (purpose)"
+  	},
+  	{
+  		"greek": "ἐπι- (prefix)",
+  		"english": "upon, over, against, after"
+  	},
+  	{
+  		"greek": "ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, -, -",
+  		"english": "come, go"
+  	},
+  	{
+  		"greek": "ἑταῖρος, ἑταίρου, ὁ",
+  		"english": "companion"
+  	},
+  	{
+  		"greek": "Εὐριπίδης, Εὐριπίδου, ὁ (voc. Εὐριπίδη)",
+  		"english": "Euripides (tragic poet)"
+  	},
+  	{
+  		"greek": "κράτος, κράτους, τό",
+  		"english": "strength, power"
+  	},
+  	{
+  		"greek": "μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα, -, -",
+  		"english": "learn, understand"
+  	},
+  	{
+  		"greek": "μάχομαι, μαχοῦμαι, ἐμαχεσάμην, -, μεμάχημαι, -",
+  		"english": "fight (+dat.)"
+  	},
+  	{
+  		"greek": "μετα- (prefix)",
+  		"english": "indicates sharing or change"
+  	},
+  	{
+  		"greek": "μεταδίδωμι",
+  		"english": "give a share to"
+  	},
+  	{
+  		"greek": "μετανίσταμαι, μεταναστήσομαι, μετανέστην, μετανέστηκα, -, -",
+  		"english": "migrate"
+  	},
+  	{
+  		"greek": "μηχανή, μηχανῆς, ἡ",
+  		"english": "device, machine"
+  	},
+  	{
+  		"greek": "μηχανάομαι, μηχανήσομαι, ἐμηχανησάμην, -, μεμηχάνημαι",
+  		"english": "contrive, devise"
+  	},
+  	{
+  		"greek": "ξίφος, ξίφους, τό",
+  		"english": "sword"
+  	},
+  	{
+  		"greek": "ὅμοιος, ὁμοία, ὅμοιον",
+  		"english": "like (+dat.)"
+  	},
+  	{
+  		"greek": "ὅπως (conj.)",
+  		"english": "that (introduces object clauses of effort"
+  	},
+  	{
+  		"greek": "παῖς, παιδός, ὁ or ἡ (gen. pl. παίδων)",
+  		"english": "child"
+  	},
+  	{
+  		"greek": "πούς, ποδός, ὁ (voc. πούς)",
+  		"english": "foot"
+  	},
+  	{
+  		"greek": "σαφής, σαφές",
+  		"english": "clear, distinct"
+  	},
+  	{
+  		"greek": "σύμμαχος, συμμάχου, ὁ",
+  		"english": "ally"
+  	},
+  	{
+  		"greek": "τεῖχος, τείχους, τό",
+  		"english": "city wall"
+  	},
+  	{
+  		"greek": "τόπος, τόπου, ὁ",
+  		"english": "place"
+  	},
+  	{
+  		"greek": "τρόπαιον, τροπαίου, τό",
+  		"english": "trophy, victory monument"
+  	},
+  	{
+  		"greek": "φεύγω, φεύξομαι, ἔφυγον, πέφευγα, -, -",
+  		"english": "flee, be in exile, be a defendant"
+  	},
+  	{
+  		"greek": "χαλεπός, χαλεπή, χαλεπόν",
+  		"english": "difficult, harsh"
+  	},
+  	{
+  		"greek": "χείρ, χειρός, ἡ (dat. pl. χερσί(ν)",
+  		"english": "hand"
+  	}
+  ],
+  "unit14": [
+  	{
+  		"greek": "ἀμαθής, ἀμαθές",
+  		"english": "ignorant, stupid"
+  	},
+  	{
+  		"greek": "ἀμαθία, ἀμαθίας, ἡ",
+  		"english": "ignorance, stupidity"
+  	},
+  	{
+  		"greek": "δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην",
+  		"english": "show"
+  	},
+  	{
+  		"greek": "ἐπιδείκνυμι",
+  		"english": "show off, display"
+  	},
+  	{
+  		"greek": "ἐπίδειξις, ἐπιδείξεως, ἡ",
+  		"english": "display, demonstration"
+  	},
+  	{
+  		"greek": "ἐπανίσταμαι, ἐπαναστήσομαι, ἐπανέστην, ἐπανέστηκα, -, -",
+  		"english": "rise in insurrection against (+dat.)"
+  	},
+  	{
+  		"greek": "ἐρωτάω, ἐρωτήσω, ἠρώτησα, ἠρώτηκα, ἠρώτημαι, ἠρωτήθην",
+  		"english": "ask, question"
+  	},
+  	{
+  		"greek": "ἕτερος, ἑτέρα, ἕτερον",
+  		"english": "the other (of two)"
+  	},
+  	{
+  		"greek": "ἔτι (adv.)",
+  		"english": "yet, still"
+  	},
+  	{
+  		"greek": "μηκέτι (adv.)",
+  		"english": "no longer"
+  	},
+  	{
+  		"greek": "οὐκέτι (adv.)",
+  		"english": "no longer"
+  	},
+  	{
+  		"greek": "κοινός, κοινή, κοινόν",
+  		"english": "common"
+  	},
+  	{
+  		"greek": "Λακεδαιμόνιος, Λακεδαιμονία, Λακεδαιμόνιον",
+  		"english": "Spartan (used of persons)"
+  	},
+  	{
+  		"greek": "λανθάνω, λήσω, ἔλαθον, λέληθα, -, -",
+  		"english": "escape the notice of (+acc.)"
+  	},
+  	{
+  		"greek": "μαθητής, μαθητοῦ, ὁ",
+  		"english": "student, pupil"
+  	},
+  	{
+  		"greek": "μέσος, μέση, μέσον",
+  		"english": "middle (of)"
+  	},
+  	{
+  		"greek": "νέος, νέα, νέον",
+  		"english": "new, young"
+  	},
+  	{
+  		"greek": "παρα- (prefix)",
+  		"english": "beside"
+  	},
+  	{
+  		"greek": "παραγίγνομαι",
+  		"english": "be present, be with (+dat.)"
+  	},
+  	{
+  		"greek": "παραδίδωμι",
+  		"english": "hand over, surrender, hand down"
+  	},
+  	{
+  		"greek": "παραμένω",
+  		"english": "stand fast, stay behind"
+  	},
+  	{
+  		"greek": "ῥᾴδιος, ῥᾳδία, ῥᾴδιον",
+  		"english": "easy"
+  	},
+  	{
+  		"greek": "στάσις, στάσεως, ἡ",
+  		"english": "civil strife, faction"
+  	},
+  	{
+  		"greek": "τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα, -, -",
+  		"english": "happen (to), hit the mark, (+gen.) obtain"
+  	},
+  	{
+  		"greek": "ὑπο- (prefix)",
+  		"english": "under, secretly, gradually, slightly"
+  	},
+  	{
+  		"greek": "ὑπακούω",
+  		"english": "heed, obey (+gen. or dat.)"
+  	},
+  	{
+  		"greek": "ὑπομένω",
+  		"english": "await, stand firm, endure"
+  	},
+  	{
+  		"greek": "φθάνω, φθήσομαι, ἔφθασα or ἔφθην, -, -, -",
+  		"english": "act first, be first (in doing something), anticipate (someone)"
+  	},
+  	{
+  		"greek": "χαίρω, χαιρήσω, -, κεχάρηκα, -, ἐχάρην",
+  		"english": "rejoice (in), take pleasure (in), enjoy (+dat.)"
+  	}
+  ],
+  "unit15": [
+  	{
+  		"greek": "αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην",
+  		"english": "take, capture, (mid.) choose"
+  	},
+  	{
+  		"greek": "αἰσθάνομαι, αἰσθήσομαι, ᾐσθόμην, -, ᾔσθημαι, -",
+  		"english": "perceive (+gen. or acc.)"
+  	},
+  	{
+  		"greek": "δια- (prefix)",
+  		"english": "through, in different directions"
+  	},
+  	{
+  		"greek": "ἑαυτοῦ, ἑαυτῆς, ἑαυτοῦ (reflexive pronoun)",
+  		"english": "himself, herself, itself"
+  	},
+  	{
+  		"greek": "ἐγώ (personal pronoun)",
+  		"english": "I"
+  	},
+  	{
+  		"greek": "ἐμαυτοῦ, ἐμαυτῆς (reflexive pronoun)",
+  		"english": "myself"
+  	},
+  	{
+  		"greek": "ἐμός, ἐμή, ἐμόν",
+  		"english": "my, (as a substantive) mine"
+  	},
+  	{
+  		"greek": "εἰμί, ἔσομαι, -, -, -, -",
+  		"english": "be"
+  	},
+  	{
+  		"greek": "ἔστι(ν)",
+  		"english": "there is, it is possible"
+  	},
+  	{
+  		"greek": "ἔξεστι(ν) (impersonal verb)",
+  		"english": "it is allowed, it is possible"
+  	},
+  	{
+  		"greek": "ἕπομαι, ἕψομαι, ἑσπόμην, -, -, -",
+  		"english": "follow, pursue (+dat.)"
+  	},
+  	{
+  		"greek": "ἡμεῖς (personal pronoun)",
+  		"english": "ἡμῶν αὐτῶν (reflexive pronoun)"
+  	},
+  	{
+  		"greek": "ἡμέτερος, ἡμετέρα, ἡμέτερον",
+  		"english": "our, (as a substantive) ours"
+  	},
+  	{
+  		"greek": "οἷος, οἵα, οἷον",
+  		"english": "such as, of the sort which, what sort of!"
+  	},
+  	{
+  		"greek": "οἷός τ᾽εἰμί",
+  		"english": "be able"
+  	},
+  	{
+  		"greek": "ὁράω, ὄψομαι, εἶδον, ἑόρακα or ἑώρακα, ἑώραμαι or ὦμμαι, ὤφθην",
+  		"english": "see"
+  	},
+  	{
+  		"greek": "-περ (enclitic particle)",
+  		"english": "adds force to preceding word"
+  	},
+  	{
+  		"greek": "περι- (prefix)",
+  		"english": "all around, very, exceedingly"
+  	},
+  	{
+  		"greek": "ποῖος, ποία, ποῖον",
+  		"english": "of what kind?"
+  	},
+  	{
+  		"greek": "σύ (personal pronoun)",
+  		"english": "you (sing.)"
+  	},
+  	{
+  		"greek": "σεαυτοῦ, σεαυτῆς (reflexive pronoun)",
+  		"english": "yourself"
+  	},
+  	{
+  		"greek": "σός, σή, σόν",
+  		"english": "your, (as a substantive) yours"
+  	},
+  	{
+  		"greek": "σφῶν αὐτῶν (reflexive pronoun)",
+  		"english": "themselves"
+  	},
+  	{
+  		"greek": "σφέτερος αὐτῶν",
+  		"english": "their (own)"
+  	},
+  	{
+  		"greek": "τίς, τί (interrogative pronoun/ajective)",
+  		"english": "who?, which?, what?"
+  	},
+  	{
+  		"greek": "τις, τι (indefinite enclitic prnoun/adjective)",
+  		"english": "someone, something, anyone, anything, some, any"
+  	},
+  	{
+  		"greek": "τοιοῦτος, τοιαύτη, τοιοῦτο/τοιοῦτον",
+  		"english": "of this/that sort, such (as this)"
+  	},
+  	{
+  		"greek": "ὑμεῖς (personal pronoun)",
+  		"english": "you (pl.)"
+  	},
+  	{
+  		"greek": "ὑμῶν αὐτῶν (reflexive pronoun)",
+  		"english": "yourselves"
+  	},
+  	{
+  		"greek": "ὑμέτερος, ὑμετέρα, ὑμέτερον",
+  		"english": "your, (as a substantive) yours"
+  	},
+  	{
+  		"greek": "φέρω, οἴσω, ἤνεγκα or ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην",
+  		"english": "bring, bear, carry, (mid.) win"
+  	},
+  	{
+  		"greek": "διαφέρω",
+  		"english": "carry through, be different from, excel (+gen.)"
+  	},
+  	{
+  		"greek": "συμφέρω",
+  		"english": "bring together, be useful or profitable, (impersonal) it is expedient"
+  	}
+  ],
+  "unit16": [
+  	{
+  		"greek": "βαίνω, -βήσομαι, -ἔβην, βέβηκα, -, -",
+  		"english": "walk, step, go, (perfect) stand"
+  	},
+  	{
+  		"greek": "ἀναβαίνω",
+  		"english": "go up, go upland, board, mount"
+  	},
+  	{
+  		"greek": "γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἐγνωσμαι, ἐγνώσθην",
+  		"english": "perceive, recognize, know"
+  	},
+  	{
+  		"greek": "ἕκαστος, ἑκάστη, ἕκαστον",
+  		"english": "each (of many), (pl.) each (of several groups), all (considered singly)"
+  	},
+  	{
+  		"greek": "ἕνεκα (prep.)",
+  		"english": "+preceding gen. for the sake of"
+  	},
+  	{
+  		"greek": "Ζεύς, Διός, ὁ (voc. Ζεῦ)",
+  		"english": "Zeus"
+  	},
+  	{
+  		"greek": "θέατρον, θεάτρου, τό",
+  		"english": "theater"
+  	},
+  	{
+  		"greek": "λέγω, ἐρῶ or λέξω, εἶπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλἐχθην or ἐρρήθην",
+  		"english": "say, speak"
+  	},
+  	{
+  		"greek": "λιμήν, λιμένος, ὁ",
+  		"english": "harbor"
+  	},
+  	{
+  		"greek": "μήποτε (adv.)",
+  		"english": "never, not ever"
+  	},
+  	{
+  		"greek": "ναῦς, νεώς, ἡ",
+  		"english": "ship"
+  	},
+  	{
+  		"greek": "νή (affirmative particle)",
+  		"english": "by (+ name of god in acc.)"
+  	},
+  	{
+  		"greek": "νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην",
+  		"english": "consider, think, believe"
+  	},
+  	{
+  		"greek": "ὅτι (conj.)",
+  		"english": "that, because"
+  	},
+  	{
+  		"greek": "οὔποτε (adv.)",
+  		"english": "never, not ever"
+  	},
+  	{
+  		"greek": "πάνυ (adv.)",
+  		"english": "perfectly, very, by all means"
+  	},
+  	{
+  		"greek": "πίπτω, πεσοῦμαι, ἔπεσον, πέπτωκα, -, -",
+  		"english": "fall"
+  	},
+  	{
+  		"greek": "ἐκπίπτω",
+  		"english": "be driven out, be banished"
+  	},
+  	{
+  		"greek": "πολιτεία, πολιτείας, ἡ",
+  		"english": "government, constitution, common-wealth"
+  	},
+  	{
+  		"greek": "πολύς, πολλή, πολύ",
+  		"english": "much, many"
+  	},
+  	{
+  		"greek": "πολλάκις (adv.)",
+  		"english": "often"
+  	},
+  	{
+  		"greek": "πονηρός, πονηρά, πονηρόν",
+  		"english": "worthless, evil, base"
+  	},
+  	{
+  		"greek": "προ- (prefix)",
+  		"english": "forward, on behalf of, before"
+  	},
+  	{
+  		"greek": "προδίδωμι",
+  		"english": "betray, give up (to an enemy), abandon"
+  	},
+  	{
+  		"greek": "σωφροσύνη, σωφροσύνης, ἡ",
+  		"english": "prudence, self-control, moderation"
+  	},
+  	{
+  		"greek": "φημί, φήσω, ἔφησα, -, -, -",
+  		"english": "say, assert, affirm"
+  	},
+  	{
+  		"greek": "ὡς (conj.)",
+  		"english": "that"
+  	}
+  ],
+  "unit17": [
+  	{
+  		"greek": "ἁμαρτάνω, ἁμαρτήσομαι, ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην",
+  		"english": "miss (+gen.), make a mistake, do wrong"
+  	},
+  	{
+  		"greek": "ἁμαρτία, ἁμαρτίας, ἡ",
+  		"english": "mistake, error"
+  	},
+  	{
+  		"greek": "βαρύς, βαρεῖα, βαρύ",
+  		"english": "heavy"
+  	},
+  	{
+  		"greek": "δοκέω, δόξω, ἔδοξα, -, δέδογμαι, -ἐδόχθην",
+  		"english": "seem, think"
+  	},
+  	{
+  		"greek": "δύναμαι, δθνήσομαι, -, -, δεδύνημαι, ἐδυνήθην",
+  		"english": "be able"
+  	},
+  	{
+  		"greek": "δύναμις, δυνάμεως, ἡ",
+  		"english": "strength, power"
+  	},
+  	{
+  		"greek": "δύο",
+  		"english": "two"
+  	},
+  	{
+  		"greek": "δεύτερος, δευτέρα, δεύτερον",
+  		"english": "second"
+  	},
+  	{
+  		"greek": "εἶμι, -, -, -, -, -",
+  		"english": "go, come"
+  	},
+  	{
+  		"greek": "εἷς, μία, ἕν",
+  		"english": "one"
+  	},
+  	{
+  		"greek": "ἐλαύνω, ἐλῶ (ἐλάω), ἤλασα, -ἐλήλακα, ἐλήλαμαι, ἠλάθην",
+  		"english": "drive, march"
+  	},
+  	{
+  		"greek": "ἐπίσταμαι, ἐπιστήσομαι, - -, -, ἠπιστήθην",
+  		"english": "know"
+  	},
+  	{
+  		"greek": "ἐπιστήμη, ἐπιστήμης, ἡ",
+  		"english": "knowledge"
+  	},
+  	{
+  		"greek": "ἔχω, ἕξω or σχήσω, ἔσχον, ἔσχηκα, ἔσχημαι, -",
+  		"english": "have, hold, be able, (+adv.) be, (mid.) cling to, be next to (+gen.)"
+  	},
+  	{
+  		"greek": "ἡδύς, ἡδεῖα, ἡδύ",
+  		"english": "pleasant, glad"
+  	},
+  	{
+  		"greek": "μάλιστα (adv.)",
+  		"english": "most"
+  	},
+  	{
+  		"greek": "μέγας, μεγάλη, μέγα",
+  		"english": "big, great, large"
+  	},
+  	{
+  		"greek": "μηδείς, μηδεμία, μηδέν",
+  		"english": "no one, nothing"
+  	},
+  	{
+  		"greek": "ὀρθός, ὀρθή, ὀρθόν",
+  		"english": "straight, correct"
+  	},
+  	{
+  		"greek": "οὐδείς, οὐδεμία, οὐδέν",
+  		"english": "no one, nothing"
+  	},
+  	{
+  		"greek": "πόσος, πόση, πόσον",
+  		"english": "how much/many?, how large?"
+  	},
+  	{
+  		"greek": "τοσοῦτος, τοσαύτη, τοσοῦτο/τοσοῦτον",
+  		"english": "so much/many, so large"
+  	},
+  	{
+  		"greek": "ὅσος, ὅση, ὅσον",
+  		"english": "as much/many as, as large as, how much/many!, how large!"
+  	},
+  	{
+  		"greek": "πότερος, ποτέρα, πότερον",
+  		"english": "which (of two)"
+   	},
+   	{
+   		"greek": "πότερον (adv.)",
+   		"english": "introduces alternative question"
+   	},
+   	{
+   		"greek": "ταχύς, ταχεῖα, ταχύ",
+   		"english": "quick, swift"
+   	},
+   	{
+   		"greek": "τέτταρες, τέτταρα",
+   		"english": "four"
+   	},
+   	{
+   		"greek": "τέταρτος, τετάρτη, τέταρτον",
+   		"english": "fourth"
+   	},
+   	{
+   		"greek": "τρεῖς, τρία",
+   		"english": "three"
+   	},
+   	{
+   		"greek": "τρίτος, τρίτη, τρίτον",
+   		"english": "third"
+   	},
+   	{
+   		"greek": "ὑπερ- (prefix)",
+   		"english": "over, greatly, on behalf of"
+   	}
+  ],
+  "unit18": [
+  	{
+  		"greek": "ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον, τέθνηκα, -, -",
+  		"english": "die"
+  	},
+  	{
+  		"greek": "ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα, ἀπέκτονα, -, -",
+  		"english": "kill"
+  	},
+  	{
+  		"greek": "αὖ (postpositive article)",
+  		"english": "again, further, in turn"
+  	},
+  	{
+  		"greek": "βουλεύω, βουλεύσω, ἐβούλευσα, βεβούλευκα, βεβούλευμαι, ἐβουλεύθην",
+  		"english": "deliberate on, plan, (mid.) take counsel with oneself, deliberate"
+  	},
+  	{
+  		"greek": "ἐπιβουλεύω",
+  		"english": "plot against (+dat.)"
+  	},
+  	{
+  		"greek": "συμβουλεύω",
+  		"english": "advise, counsel (+dat.), (mid.) consult with (+dat.)"
+  	},
+  	{
+  		"greek": "εἰ (indirect interrogative)",
+  		"english": "whether, if"
+  	},
+  	{
+  		"greek": "εἴτε...εἴτε (indirect interrogatives)",
+  		"english": "wheter...or, if...or"
+  	},
+  	{
+  		"greek": "ζητέω, ζητήσω, ἐξήτησα, ἐζήτηκα, -, ἐζητήθην",
+  		"english": "seek"
+  	},
+  	{
+  		"greek": "ἵημι, -ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην",
+  		"english": "release, hurl, send"
+  	},
+  	{
+  		"greek": "ἀφίημι, ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην",
+  		"english": "send forth, send away, let go, neglect"
+  	},
+  	{
+  		"greek": "συνίημι, συνήσω, συνῆκα, συνεῖκα, συνεῖμαι, συνείθην",
+  		"english": "understand, comprehend"
+  	},
+  	{
+  		"greek": "μέλλω, μελλήσω, ἐμέλλησα, -, -, -",
+  		"english": "be about to, be likely to, (+ future infin.); delay"
+  	},
+  	{
+  		"greek": "ὀξύς, ὀξεῖα, ὀξύ",
+  		"english": "sharp, keen"
+  	},
+  	{
+  		"greek": "ὅστις, ἥτις, ὅτι (indefinite relative)",
+  		"english": "whoever, whatever"
+  	},
+  	{
+  		"greek": "ὅστις, ἥτις, ὅτι (indirect interrogative)",
+  		"english": "who?, what?"
+  	},
+  	{
+  		"greek": " πιστεύω, πιστεύσω, ἐπίστευσα, πεπίστευκα, πεπίστευμαι, ἐπιστεύθην",
+  		"english": "trust (+dat.)"
+  	},
+  	{
+  		"greek": "τράπεζα, τραπέζης, ἡ",
+  		"english": "table, money-changer's table, bank"
+  	},
+  	{
+  		"greek": "ψεῦδος, ψεύδους, τό",
+  		"english": "falsehood, lie"
+  	},
+  	{
+  		"greek": "ψευδής, ψευδές",
+  		"english": "false, lying"
+  	}
+  ],
+  "unit19": [
+  	{
+  		"greek": "αἰσχύνομαι, αἰσχυνοῦμαι, -, -, ᾔσχυμμαι, ᾑσχύνθην",
+  		"english": "be ashamed, feel shame before"
+  	},
+  	{
+  		"greek": "ἀπόλλυμι, ἀπολῶ, ἀπώλεσα (trans.) or ἀπωλόμην (intrans.), ἀπολώλεκα (trans.) or ἀπόλωλα (intrans.), -, -",
+  		"english": "kill, lose, (mid. and intrans.) die, cease to exist"
+  	},
+  	{
+  		"greek": "-, ἐρήσομαι, ἠρόμην, -, -, -",
+  		"english": "ask"
+  	},
+  	{
+  		"greek": "-, ἀνερήσομαι, ἀνηρόμην, -, -, -",
+  		"english": "ask"
+  	},
+  	{
+  		"greek": "εὑρίσκω, εὑρήσω, ηὗρον, ηὕρηκα, ηὕρημαι, ηὑρέθην",
+  		"english": "find, discover"
+  	},
+  	{
+  		"greek": "ἕως (conj.)",
+  		"english": "as long as, while, until"
+  	},
+  	{
+  		"greek": "ἡγέομαι, ἡγήσομαι, ἡγησάμην, -, ἥγημαι, ἡγήθην",
+  		"english": "lead the way, be commander, rule (+gen.), believe"
+  	},
+  	{
+  		"greek": "ἴσος, ἴση, ἴσον",
+  		"english": "equal, fair, flat"
+  	},
+  	{
+  		"greek": "ἴσως (adv.)",
+  		"english": "equally, perhaps"
+  	},
+  	{
+  		"greek": "καινός, καινή, καινόν",
+  		"english": "new, strange"
+  	},
+  	{
+  		"greek": "κέρδος, κέρδους, τό",
+  		"english": "gain, profit"
+  	},
+  	{
+  		"greek": "κρίνω, κρινῶ, ἔκρινα, κέκρικα, κέκριμαι, ἐκρίθην",
+  		"english": "separate, decide, judge"
+  	},
+  	{
+  		"greek": "ἀποκρίνομαι, ἀποκρινοῦμαι, ἀπεκρινάμην, -, ἀποκέκριμαι, -",
+  		"english": "answer"
+  	},
+  	{
+  		"greek": "κριτής, κριτοῦ, ὁ",
+  		"english": "judge"
+  	},
+  	{
+  		"greek": "λύπη, λύπης, ἡ",
+  		"english": "pain, grief"
+  	},
+  	{
+  		"greek": "μάλα (adv.)",
+  		"english": "very"
+  	},
+  	{
+  		"greek": "μέχρι (conj.)",
+  		"english": "as long as, until"
+  	},
+  	{
+  		"greek": "νόσος, νόσου, ἡ",
+  		"english": "sickness"
+  	},
+  	{
+  		"greek": "οἶδα, εἴσομαι, -, -, -, -",
+  		"english": "know"
+  	},
+  	{
+  		"greek": "σύνοιδα",
+  		"english": "be aware, know (+dat.)"
+  	},
+  	{
+  		"greek": "ὀλίγος, ὀλίγη, ὀλίγον",
+  		"english": "little, (pl.) few"
+  	},
+  	{
+  		"greek": "πρίν (conj.)",
+  		"english": "(+infinitive) before, (+indic., or + ἄν and subj.) until"
+  	},
+  	{
+  		"greek": "πρότερος, προτέρα, πρότερον",
+  		"english": "former, superior"
+  	},
+  	{
+  		"greek": "πρότερον (adv.)",
+  		"english": "before, earlier"
+  	},
+  	{
+  		"greek": "ὕστερος, ὑστέρα, ὕστερον",
+  		"english": "later"
+  	},
+  	{
+  		"greek": "ὕστερον (adv.)",
+  		"english": "later"
+  	},
+  	{
+  		"greek": "ὕστατος, ὑστάτη, ὕστατον",
+  		"english": "last"
+  	},
+  	{
+  		"greek": "χρόνος, χρόνου, ὁ",
+  		"english": "time"
+  	}
+  ],
+  "unit20": [
+  	{
+  		"greek": "ἄστυ, ἄστεως, τό",
+  		"english": "town"
+  	},
+  	{
+  		"greek": "ἀφικνέομαι, ἀφίξομαι, ἀφικόμην, -, ἀφίγμαι, -",
+  		"english": "arrive"
+  	},
+  	{
+  		"greek": "δεῖ, δεήσει, ἐδέησε(ν), -, -, - (impersonal verb)",
+  		"english": "it is necessary, must, there is need"
+  	},
+  	{
+  		"greek": "ἰατρός, ἰατροῦ, ὁ",
+  		"english": "doctor"
+  	},
+  	{
+  		"greek": "κεῖμαι, κείσομαι, -, -, -, -",
+  		"english": "lie, be placed, be set"
+  	},
+  	{
+  		"greek": "νοῦς, νοῦ, ὁ",
+  		"english": "mind, reason"
+  	},
+  	{
+  		"greek": "πυνθάνομαι, πεύσομαι, ἐπυθόμην, -, πέπυσμαι, -",
+  		"english": "inquire, learn by inquiry"
+  	},
+  	{
+  		"greek": "τρέπω, τρέψω, ἔτρεψα or ἐτραπόμην, τέτροφα, τέτραμμαι, ἐτράπην or ἐφάνην",
+  		"english": "turn, (mid., aorist passive) turn oneself"
+  	},
+  	{
+  		"greek": "φαίνω, φανῶ, ἔφηνα, πέφηνα, πέφασμαι, ἐφάνην",
+  		"english": "show, cause to appear, (mid., perfect active, aorist passive) appear"
+  	},
+  	{
+  		"greek": "χρή, χρῆσται, -, -, -, - (impersonal verb)",
+  		"english": "ought, must"
+  	}
   ]
 }
