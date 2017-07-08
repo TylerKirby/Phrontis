@@ -41,6 +41,15 @@ export default class VocabScreen extends React.Component {
   correct() {
     const { deckPosition, deck, flip } = this.state;
     const newDeck = update(deck, {$splice: [[deckPosition, 1]]})
+
+    if (newDeck.length < deckPosition + 1) {
+      this.setState({
+      flip: !flip,
+      deck: newDeck,
+      deckPosition: 0,
+    });
+    }
+
     this.setState({
       flip: !flip,
       deck: newDeck,
@@ -77,18 +86,13 @@ export default class VocabScreen extends React.Component {
 
   render() {
 
-    // Debugging statements:
-    console.log('Deck: ', this.state.deck)
-    console.log('Flip state: ', this.state.flip)
-    console.log('Deck Position', this.state.deckPosition)
-
     const { flip, deck, deckPosition } = this.state;
 
     const check = (<Icon name="check" size={30} color={Colors.yellowOrange} />)
     const x = (<Icon name="times" size={30} color={Colors.yellowOrange} />)
-
+    
     let finished = deck.length < 1
-
+    
     return(
       <View style={styles.mainContainer}>
         <View style={styles.cardContainer}>
