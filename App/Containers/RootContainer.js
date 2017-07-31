@@ -6,7 +6,6 @@ import Navigation from '../Navigation/AppNavigation'
 import styles from './Styles/RootContainerStyles'
 
 export default class RootContainer extends Component {
-
   render () {
     return (
       <View style={styles.applicationView}>
@@ -16,7 +15,3 @@ export default class RootContainer extends Component {
     )
   }
 }
-
-// wraps dispatch to create nicer functions to call within our component
-
-

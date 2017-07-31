@@ -1,6 +1,6 @@
-import React from 'react';
-import { Text, View } from 'react-native';
-import RoundedButton from '../Components/RoundedButton';
+import React from 'react'
+import { Text, View } from 'react-native'
+import RoundedButton from '../Components/RoundedButton'
 
 // Styles
 import styles from './Styles/LaunchScreenStyles'
@@ -15,9 +15,12 @@ export default class LaunchScreen extends React.Component {
         <Text style={styles.title}>
           Phrontis
         </Text>
+        <Text style={styles.subtitle}>
+          An Ancient Greek Study Companion App
+        </Text>
         <View>
           <RoundedButton
-            text="VOCABULARY"
+            text='VOCABULARY'
             onPress={() => this.props.navigation.navigate('UnitSelectScreen')}
           />
         </View>

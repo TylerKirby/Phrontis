@@ -9,7 +9,6 @@ import styles from './Styles/RoundedButtonStyles'
 export default class RoundedButton extends React.Component {
   static propTypes = {
     onPress: PropTypes.func,
-    text: PropTypes.string,
     children: PropTypes.string,
     navigator: PropTypes.object
   }

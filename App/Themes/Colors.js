@@ -24,11 +24,11 @@ const colors = {
   text: '#E0D7E5',
   white: '#ffffff',
   // Color scheme 4
-  sapphireBlur: "#006BA6",
-  azure: "#0496FF",
-  yellowOrange: "#FFBC42",
-  ruby: "#D81159",
-  darkRasberry: "#8F2D56"
+  sapphireBlur: '#006BA6',
+  azure: '#0496FF',
+  yellowOrange: '#FFBC42',
+  ruby: '#D81159',
+  darkRasberry: '#8F2D56'
 }
 
 export default colors

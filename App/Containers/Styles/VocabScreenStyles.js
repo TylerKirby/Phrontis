@@ -1,5 +1,5 @@
-import {StyleSheet} from 'react-native';
-import {Fonts, Metrics, Colors} from '../../Themes';
+import {StyleSheet} from 'react-native'
+import {Metrics, Colors} from '../../Themes'
 
 export default StyleSheet.create({
   mainContainer: {
@@ -7,17 +7,17 @@ export default StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: Colors.azure,
-    paddingBottom: Metrics.baseMargin,
+    paddingBottom: Metrics.baseMargin
   },
   cardContainer: {
     backgroundColor: 'white',
-    width: Metrics.screenWidth * .75,
+    width: Metrics.screenWidth * 0.75,
     height: Metrics.screenHeight / 4,
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'center'
   },
   buttonContainer: {
-    flexDirection: 'row',
+    flexDirection: 'row'
   },
   cardText: {
     color: 'black',

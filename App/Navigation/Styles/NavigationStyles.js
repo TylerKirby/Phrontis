@@ -3,7 +3,7 @@ import { Colors } from '../../Themes/'
 
 export default StyleSheet.create({
   header: {
-    backgroundColor: Colors.ruby,
+    backgroundColor: Colors.ruby
   },
   title: {
     color: Colors.white

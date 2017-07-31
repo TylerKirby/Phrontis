@@ -8,7 +8,7 @@ export default StyleSheet.create({
     backgroundColor: Colors.azure,
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center',
+    alignItems: 'center'
   },
   logo: {
     marginTop: Metrics.doubleSection,
@@ -23,7 +23,13 @@ export default StyleSheet.create({
     fontSize: 60,
     color: Colors.yellowOrange,
     textAlign: 'center',
-    fontFamily: 'ArialHebrew-Light',
+    fontFamily: 'ArialHebrew-Light'
+  },
+  subtitle: {
+    fontSize: 20,
+    color: Colors.yellowOrange,
+    textAlign: 'center',
+    fontFamily: 'ArialHebrew-Light'
   },
   buttonBox: {
     flex: 2,

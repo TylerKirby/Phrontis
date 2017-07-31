@@ -4,12 +4,12 @@ import VocabScreen from '../Containers/VocabScreen'
 import UnitSelectScreen from '../Containers/UnitSelectScreen'
 
 import styles from './Styles/NavigationStyles'
-import { Colors } from '../Themes';
+import { Colors } from '../Themes'
 
 // Manifest of possible screens
 const PrimaryNav = StackNavigator({
   LaunchScreen: {
-    screen: LaunchScreen,
+    screen: LaunchScreen
   },
   UnitSelectScreen: {
     screen: UnitSelectScreen,
@@ -18,7 +18,7 @@ const PrimaryNav = StackNavigator({
   VocabScreen: {
     screen: VocabScreen,
     navigationOptions: { title: 'Vocabulary' }
-  },
+  }
 }, {
   // Default config for all screens
   initialRouteName: 'LaunchScreen',
@@ -26,8 +26,8 @@ const PrimaryNav = StackNavigator({
   navigationOptions: {
     headerStyle: styles.header,
     headerTitleStyle: styles.title,
-    headerTintColor: Colors.white,
+    headerTintColor: Colors.white
   }
-});
+})
 
 export default PrimaryNav

@@ -3,8 +3,6 @@ import DebugConfig from '../Config/DebugConfig'
 import React, { Component } from 'react'
 import RootContainer from './RootContainer'
 
-
-
 /**
  * Provides an entry point into our application.  Both index.ios.js and index.android.js
  * call this component first.
