@@ -8,7 +8,7 @@ export default StyleSheet.create({
     backgroundColor: Colors.azure,
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
   },
   logo: {
     marginTop: Metrics.doubleSection,
