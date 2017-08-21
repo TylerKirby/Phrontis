@@ -1,0 +1,39 @@
+desc "Submit a new Beta Build to Apple TestFlight"
+  desc "This will also make sure the profile is up to date"
+  lane :beta do
+    # UI.important "Important Message"
+    # UI.error "O NO!"
+    # UI.message "Basic blah"
+    answer = UI.select("Would you like to add a Changelog?", ["Yes", "No"])
+    changelog = ask('Type Changelog message:') if answer == "Yes"
+
+    # Do application testing here
+    # Very personal process
+
+    # always get latest certificates/provisioning profiles
+    match(type: 'appstore')
+
+    # Change build number
+    increment_build_number(
+      xcodeproj: "./ios/phrontis.xcodeproj"
+    )
+
+    gym(
+      scheme: "AppName",
+      project: "./ios/phrontis.xcodeproj"
+      # hypothetically could be a workspace
+      # especially if you bring in pods!
+      # workspace: "./ios/AppName.xcworkspace"
+    )
+
+    # Sometimes itunes email is different!
+    if changelog
+      pilot(username: "tyler.kirby9398@gmail.com", changelog: changelog)
+    else
+      pilot(username: "tyler.kirby9398@gmail.com")
+    end
+
+    # Reminder of testers
+    sh "pilot list -u tyler.kirby9398@gmail.com"
+    
+  end
