@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LaunchScreen component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#0496FF",
+      "flex": 1,
+      "justifyContent": "center",
+      "paddingBottom": 10,
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#FFBC42",
+        "fontFamily": "ArialHebrew-Light",
+        "fontSize": 60,
+        "textAlign": "center",
+      }
+    }
+  >
+    Phrontis
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#FFBC42",
+        "fontFamily": "ArialHebrew-Light",
+        "fontSize": 20,
+        "textAlign": "center",
+      }
+    }
+  >
+    An Ancient Greek Study Companion App
+  </Text>
+  <View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D81159",
+          "borderRadius": 5,
+          "height": 45,
+          "justifyContent": "center",
+          "marginHorizontal": 25,
+          "marginVertical": 10,
+          "opacity": 1,
+          "width": 150,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "marginVertical": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        BEGIN
+      </Text>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,211 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UnitSelectScreen component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#0496FF",
+      "flex": 2,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "#FFBC42",
+        "fontFamily": "ArialHebrew-Light",
+        "fontSize": 20,
+        "textAlign": "center",
+      }
+    }
+  >
+    Select a unit to study
+  </Text>
+  <View
+    style={
+      Object {
+        "paddingBottom": 100,
+        "width": 150,
+      }
+    }
+  >
+    <View
+      style={undefined}
+    >
+      <RCTPicker
+        items={
+          Array [
+            Object {
+              "label": "Unit 1",
+              "textColor": undefined,
+              "value": 1,
+            },
+            Object {
+              "label": "Unit 2",
+              "textColor": undefined,
+              "value": 2,
+            },
+            Object {
+              "label": "Unit 3",
+              "textColor": undefined,
+              "value": 3,
+            },
+            Object {
+              "label": "Unit 4",
+              "textColor": undefined,
+              "value": 4,
+            },
+            Object {
+              "label": "Unit 5",
+              "textColor": undefined,
+              "value": 5,
+            },
+            Object {
+              "label": "Unit 6",
+              "textColor": undefined,
+              "value": 6,
+            },
+            Object {
+              "label": "Unit 7",
+              "textColor": undefined,
+              "value": 7,
+            },
+            Object {
+              "label": "Unit 8",
+              "textColor": undefined,
+              "value": 8,
+            },
+            Object {
+              "label": "Unit 9",
+              "textColor": undefined,
+              "value": 9,
+            },
+            Object {
+              "label": "Unit 10",
+              "textColor": undefined,
+              "value": 10,
+            },
+            Object {
+              "label": "Unit 11",
+              "textColor": undefined,
+              "value": 11,
+            },
+            Object {
+              "label": "Unit 12",
+              "textColor": undefined,
+              "value": 12,
+            },
+            Object {
+              "label": "Unit 13",
+              "textColor": undefined,
+              "value": 13,
+            },
+            Object {
+              "label": "Unit 14",
+              "textColor": undefined,
+              "value": 14,
+            },
+            Object {
+              "label": "Unit 15",
+              "textColor": undefined,
+              "value": 15,
+            },
+            Object {
+              "label": "Unit 16",
+              "textColor": undefined,
+              "value": 16,
+            },
+            Object {
+              "label": "Unit 17",
+              "textColor": undefined,
+              "value": 17,
+            },
+            Object {
+              "label": "Unit 18",
+              "textColor": undefined,
+              "value": 18,
+            },
+            Object {
+              "label": "Unit 19",
+              "textColor": undefined,
+              "value": 19,
+            },
+            Object {
+              "label": "Unit 20",
+              "textColor": undefined,
+              "value": 20,
+            },
+          ]
+        }
+        onChange={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        selectedIndex={0}
+        style={
+          Array [
+            Object {
+              "height": 216,
+            },
+            Object {
+              "color": "#ffffff",
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#D81159",
+          "borderRadius": 5,
+          "height": 45,
+          "justifyContent": "center",
+          "marginHorizontal": 25,
+          "marginVertical": 10,
+          "opacity": 1,
+          "width": 150,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "marginVertical": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        SUBMIT
+      </Text>
+    </View>
+  </View>
+</View>
+`;
